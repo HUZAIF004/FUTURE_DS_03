@@ -1,0 +1,43 @@
+
+STUDENT FEEDBACK ANALYSIS — EXECUTIVE SUMMARY
+
+Dataset
+- Total responses: 1001
+- Rating scale: 1–10
+- Categories analyzed: 8
+
+Overall Satisfaction
+- Mean: 5.92
+- Median: 5.88
+- Std dev: 0.89
+
+Category Performance
+- Top category: well versed with the subject (7.50)
+- Needs most improvement: degree of difficulty of assignments (5.43)
+
+Satisfaction Levels
+- Poor (1–4): 16 | 1.6%
+- Fair (4–6): 560 | 55.9%
+- Good (6–8): 418 | 41.8%
+- Excellent (8–10): 7 | 0.7%
+
+Recommendations (next 4–6 weeks)
+- Prioritize improving 'degree of difficulty of assignments' (current avg 5.43). Run targeted interventions and gather focused feedback.
+- Enhance teaching clarity: add concept checkpoints, real-world examples, and short recap quizzes.
+- Standardize slide quality: consistent template, minimal text, and visual summaries; share slides before class.
+- Introduce office hours/mentorship slots; publish a support calendar and response-time SLA.
+- Publish a weekly roadmap with learning outcomes and assessment rubrics; align assignments to outcomes.
+- Map topics to career skills; add mini-projects and guest talks to increase perceived relevance.
+- Set a target to lift overall satisfaction to 6.8+ next term; track with a monthly micro-survey (5 questions).
+
+Success Metrics
+- Increase overall mean to ≥6.8
+- Raise 'Excellent' band to ≥5%
+- Lift bottom category by +0.5 points
+- Achieve ≥75% students rating 6+ (Fair or above)
+
+Artifacts saved
+- kpi_summary.csv
+- fig_avg_by_category.png
+- fig_correlation_heatmap.png
+- fig_overall_distribution.png

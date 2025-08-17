@@ -1,0 +1,1002 @@
+student_id,well_versed_with_the_subject,explains_concepts_in_an_understandable_way,use_of_presentations,degree_of_difficulty_of_assignments,solves_doubts_willingly,structuring_of_the_course,provides_support_for_students_going_above_and_beyond,course_recommendation_based_on_relevance,overall_satisfaction,comments
+340,5,2,7,6,9,2,1,8,5.0,SYNTHETIC: struggled to follow some topics; doubt solving is helpful; course needs better structure; slides are helpful
+253,6,5,8,6,2,1,2,9,4.875,SYNTHETIC: need more support for doubts; course needs better structure; slides are helpful
+680,7,7,6,5,4,2,3,1,4.375,SYNTHETIC: explanations are easy to follow; hard to get help when needed; course needs better structure
+806,9,6,7,1,5,9,4,6,5.875,SYNTHETIC: tasks are fair; slides are helpful
+632,8,10,8,4,6,6,9,9,7.5,SYNTHETIC: concepts are clear; presentations add value
+832,7,2,7,8,3,5,1,4,4.625,SYNTHETIC: struggled to follow some topics; workload feels heavy; need more support for doubts; presentations add value
+772,9,3,5,2,10,3,8,1,5.125,SYNTHETIC: need clearer explanations; workload is reasonable; got quick support; unclear weekly plan
+961,9,8,7,4,4,3,3,10,6.0,SYNTHETIC: concepts are clear; need more support for doubts; unclear weekly plan; presentations add value
+814,6,5,8,6,4,4,7,9,6.125,SYNTHETIC: slow response to queries; course needs better structure; presentations add value
+863,5,9,4,7,9,4,4,5,5.875,SYNTHETIC: concepts are clear; assignments are too hard; mentor support is good; course needs better structure; slides could be improved
+576,10,3,8,6,6,3,6,9,6.375,SYNTHETIC: need clearer explanations; unclear weekly plan; presentations add value
+702,8,4,7,1,2,1,8,8,4.875,SYNTHETIC: struggled to follow some topics; workload is reasonable; slow response to queries; course needs better structure; presentations add value
+541,5,4,4,2,2,7,8,1,4.125,SYNTHETIC: struggled to follow some topics; tasks are fair; need more support for doubts; slides could be improved
+552,5,6,7,2,7,4,4,2,4.625,SYNTHETIC: assignments are manageable; mentor support is good; course needs better structure; slides are helpful
+510,6,7,8,3,4,7,7,6,6.0,SYNTHETIC: concepts are clear; tasks are fair; slow response to queries; presentations add value
+159,7,7,6,6,3,9,3,1,5.25,SYNTHETIC: concepts are clear; slow response to queries
+223,9,10,4,5,7,10,10,6,7.625,SYNTHETIC: explanations are easy to follow; got quick support; slides could be improved
+807,8,3,4,2,2,4,6,1,3.75,SYNTHETIC: need clearer explanations; assignments are manageable; slow response to queries; unclear weekly plan; presentations are text-heavy
+525,9,9,4,3,5,5,9,2,5.75,SYNTHETIC: teaching is clear and concise; tasks are fair; presentations are text-heavy
+799,5,6,5,4,2,1,1,7,3.875,SYNTHETIC: need more support for doubts; unclear weekly plan
+24,9,10,6,10,2,10,1,9,7.125,SYNTHETIC: teaching is clear and concise; tasks felt challenging; slow response to queries
+509,8,2,7,5,2,3,4,4,4.375,SYNTHETIC: concepts feel confusing; slow response to queries; unclear weekly plan; presentations add value
+797,9,10,4,10,9,2,10,7,7.625,SYNTHETIC: explanations are easy to follow; workload feels heavy; got quick support; unclear weekly plan; presentations are text-heavy
+418,8,8,6,7,9,5,2,8,6.625,SYNTHETIC: explanations are easy to follow; assignments are too hard; mentor support is good
+48,5,5,4,2,1,10,10,9,5.75,SYNTHETIC: workload is reasonable; slow response to queries; presentations are text-heavy
+657,9,5,7,3,2,8,10,6,6.25,SYNTHETIC: workload is reasonable; slow response to queries; presentations add value
+864,9,8,5,2,3,9,2,8,5.75,SYNTHETIC: explanations are easy to follow; tasks are fair; hard to get help when needed
+861,5,6,4,5,4,4,6,6,5.0,SYNTHETIC: slow response to queries; course needs better structure; presentations are text-heavy
+118,9,10,7,7,4,6,9,1,6.625,SYNTHETIC: concepts are clear; workload feels heavy; need more support for doubts; presentations add value
+387,7,3,8,1,6,8,6,8,5.875,SYNTHETIC: concepts feel confusing; workload is reasonable; slides are helpful
+282,5,6,7,3,8,1,1,9,5.0,SYNTHETIC: assignments are manageable; got quick support; course needs better structure; presentations add value
+503,8,6,6,3,3,6,4,10,5.75,SYNTHETIC: assignments are manageable; need more support for doubts
+934,5,6,4,6,10,3,4,10,6.0,SYNTHETIC: doubt solving is helpful; course needs better structure; slides could be improved
+781,8,3,4,5,1,8,10,5,5.5,SYNTHETIC: concepts feel confusing; need more support for doubts; slides could be improved
+898,10,10,4,3,5,4,2,1,4.875,SYNTHETIC: concepts are clear; assignments are manageable; unclear weekly plan; presentations are text-heavy
+474,8,3,7,6,4,3,7,7,5.625,SYNTHETIC: struggled to follow some topics; hard to get help when needed; course needs better structure; slides are helpful
+704,9,9,8,6,8,4,8,5,7.125,SYNTHETIC: teaching is clear and concise; mentor support is good; course needs better structure; slides are helpful
+977,9,5,4,4,6,3,1,9,5.125,SYNTHETIC: course needs better structure; presentations are text-heavy
+454,9,6,6,1,10,8,10,7,7.125,SYNTHETIC: tasks are fair; got quick support
+295,5,7,6,3,1,7,2,9,5.0,SYNTHETIC: concepts are clear; tasks are fair; need more support for doubts
+35,10,6,4,5,6,2,3,1,4.625,SYNTHETIC: unclear weekly plan; presentations are text-heavy
+304,9,9,4,6,5,1,7,2,5.375,SYNTHETIC: explanations are easy to follow; course needs better structure; presentations are text-heavy
+56,6,9,6,8,9,6,2,4,6.25,SYNTHETIC: teaching is clear and concise; tasks felt challenging; got quick support
+922,8,10,7,4,5,9,3,5,6.375,SYNTHETIC: concepts are clear; slides are helpful
+569,10,7,6,9,2,6,2,5,5.875,SYNTHETIC: explanations are easy to follow; tasks felt challenging; hard to get help when needed
+186,6,4,4,4,6,9,10,10,6.625,SYNTHETIC: concepts feel confusing; slides could be improved
+258,7,2,7,2,7,2,6,10,5.375,SYNTHETIC: concepts feel confusing; tasks are fair; got quick support; course needs better structure; slides are helpful
+560,8,7,8,3,8,7,4,8,6.625,SYNTHETIC: concepts are clear; workload is reasonable; mentor support is good; slides are helpful
+621,10,4,5,1,5,10,1,10,5.75,SYNTHETIC: need clearer explanations; tasks are fair
+568,10,7,4,6,10,8,10,8,7.875,SYNTHETIC: teaching is clear and concise; doubt solving is helpful; slides could be improved
+393,6,9,8,7,5,8,1,4,6.0,SYNTHETIC: teaching is clear and concise; workload feels heavy; presentations add value
+12,8,10,7,2,8,9,6,6,7.0,SYNTHETIC: concepts are clear; tasks are fair; mentor support is good; presentations add value
+798,7,2,8,7,10,5,3,5,5.875,SYNTHETIC: struggled to follow some topics; assignments are too hard; doubt solving is helpful; presentations add value
+740,8,10,7,3,2,10,10,1,6.375,SYNTHETIC: explanations are easy to follow; assignments are manageable; hard to get help when needed; slides are helpful
+184,10,9,8,6,4,8,8,9,7.75,SYNTHETIC: concepts are clear; hard to get help when needed; slides are helpful
+410,7,2,5,2,6,6,3,10,5.125,SYNTHETIC: concepts feel confusing; assignments are manageable
+480,10,6,7,8,5,3,1,5,5.625,SYNTHETIC: tasks felt challenging; course needs better structure; slides are helpful
+84,7,4,6,10,7,7,8,9,7.25,SYNTHETIC: need clearer explanations; workload feels heavy; got quick support
+89,9,9,4,5,1,2,3,9,5.25,SYNTHETIC: concepts are clear; slow response to queries; course needs better structure; slides could be improved
+763,6,9,6,7,6,10,2,5,6.375,SYNTHETIC: explanations are easy to follow; workload feels heavy
+86,7,8,6,8,3,10,2,7,6.375,SYNTHETIC: explanations are easy to follow; tasks felt challenging; slow response to queries
+867,6,4,6,4,2,7,5,3,4.625,SYNTHETIC: struggled to follow some topics; need more support for doubts
+248,6,6,4,6,6,6,2,3,4.875,SYNTHETIC: slides could be improved
+751,7,3,8,10,2,7,2,6,5.625,SYNTHETIC: need clearer explanations; assignments are too hard; need more support for doubts; slides are helpful
+522,6,9,8,10,9,5,3,6,7.0,SYNTHETIC: teaching is clear and concise; workload feels heavy; doubt solving is helpful; presentations add value
+696,5,5,4,9,3,1,8,6,5.125,SYNTHETIC: assignments are too hard; need more support for doubts; course needs better structure; slides could be improved
+274,8,2,4,7,10,8,5,8,6.5,SYNTHETIC: need clearer explanations; tasks felt challenging; doubt solving is helpful; presentations are text-heavy
+921,9,7,5,10,10,9,6,4,7.5,SYNTHETIC: concepts are clear; assignments are too hard; mentor support is good
+957,6,2,7,8,5,9,5,4,5.75,SYNTHETIC: need clearer explanations; tasks felt challenging; slides are helpful
+88,9,4,4,9,9,9,7,10,7.625,SYNTHETIC: need clearer explanations; assignments are too hard; doubt solving is helpful; presentations are text-heavy
+149,5,6,5,1,8,9,7,8,6.125,SYNTHETIC: assignments are manageable; got quick support
+737,7,9,4,5,5,2,2,1,4.375,SYNTHETIC: explanations are easy to follow; course needs better structure; presentations are text-heavy
+891,7,2,4,9,6,9,7,9,6.625,SYNTHETIC: struggled to follow some topics; assignments are too hard; slides could be improved
+1,9,6,8,7,6,5,3,10,6.75,SYNTHETIC: assignments are too hard; presentations add value
+868,7,9,7,2,6,2,9,4,5.75,SYNTHETIC: concepts are clear; tasks are fair; course needs better structure; presentations add value
+895,5,5,7,7,2,1,8,9,5.5,SYNTHETIC: workload feels heavy; slow response to queries; course needs better structure; slides are helpful
+638,9,10,8,2,1,1,4,8,5.375,SYNTHETIC: concepts are clear; assignments are manageable; hard to get help when needed; unclear weekly plan; presentations add value
+707,5,6,6,5,1,9,6,9,5.875,SYNTHETIC: need more support for doubts
+432,9,9,6,8,2,3,2,4,5.375,SYNTHETIC: explanations are easy to follow; workload feels heavy; hard to get help when needed; unclear weekly plan
+988,7,4,6,7,6,9,7,1,5.875,SYNTHETIC: struggled to follow some topics; tasks felt challenging
+742,7,7,8,2,1,1,8,1,4.375,SYNTHETIC: teaching is clear and concise; assignments are manageable; hard to get help when needed; unclear weekly plan; presentations add value
+730,6,5,4,5,6,6,7,2,5.125,SYNTHETIC: slides could be improved
+321,5,7,6,2,3,5,3,5,4.5,SYNTHETIC: explanations are easy to follow; workload is reasonable; slow response to queries
+904,8,5,8,9,7,9,8,6,7.5,SYNTHETIC: tasks felt challenging; mentor support is good; presentations add value
+171,6,10,4,6,1,6,2,3,4.75,SYNTHETIC: concepts are clear; need more support for doubts; presentations are text-heavy
+695,10,4,4,1,5,8,7,1,5.0,SYNTHETIC: struggled to follow some topics; workload is reasonable; presentations are text-heavy
+498,8,5,4,5,10,7,1,10,6.25,SYNTHETIC: doubt solving is helpful; slides could be improved
+446,7,8,5,10,10,2,5,9,7.0,SYNTHETIC: teaching is clear and concise; tasks felt challenging; got quick support; course needs better structure
+982,9,10,7,5,6,6,1,5,6.125,SYNTHETIC: teaching is clear and concise; slides are helpful
+981,7,6,7,5,4,6,8,3,5.75,SYNTHETIC: hard to get help when needed; presentations add value
+849,6,10,6,7,7,4,10,7,7.125,SYNTHETIC: concepts are clear; assignments are too hard; mentor support is good; unclear weekly plan
+297,7,10,6,8,10,10,2,8,7.625,SYNTHETIC: concepts are clear; tasks felt challenging; doubt solving is helpful
+713,8,6,7,5,2,7,10,8,6.625,SYNTHETIC: need more support for doubts; presentations add value
+192,8,4,8,6,3,5,1,5,5.0,SYNTHETIC: struggled to follow some topics; hard to get help when needed; presentations add value
+561,9,6,4,8,6,8,3,3,5.875,SYNTHETIC: workload feels heavy; slides could be improved
+364,6,6,7,9,6,4,7,6,6.375,SYNTHETIC: tasks felt challenging; unclear weekly plan; presentations add value
+40,6,7,5,6,10,5,6,3,6.0,SYNTHETIC: explanations are easy to follow; doubt solving is helpful
+521,5,9,4,2,1,8,3,7,4.875,SYNTHETIC: concepts are clear; workload is reasonable; need more support for doubts; presentations are text-heavy
+201,8,2,8,9,8,8,9,4,7.0,SYNTHETIC: need clearer explanations; assignments are too hard; doubt solving is helpful; presentations add value
+780,6,4,4,10,6,5,6,8,6.125,SYNTHETIC: struggled to follow some topics; tasks felt challenging; slides could be improved
+853,7,9,4,8,9,4,10,2,6.625,SYNTHETIC: concepts are clear; tasks felt challenging; mentor support is good; unclear weekly plan; presentations are text-heavy
+202,5,6,6,10,3,4,2,8,5.5,SYNTHETIC: tasks felt challenging; slow response to queries; unclear weekly plan
+421,6,3,8,10,6,8,7,9,7.125,SYNTHETIC: concepts feel confusing; tasks felt challenging; slides are helpful
+671,9,8,6,10,10,7,7,8,8.125,SYNTHETIC: explanations are easy to follow; workload feels heavy; mentor support is good
+334,5,9,4,3,8,10,4,2,5.625,SYNTHETIC: explanations are easy to follow; assignments are manageable; mentor support is good; slides could be improved
+843,6,8,5,4,5,5,10,6,6.125,SYNTHETIC: concepts are clear
+57,10,7,6,10,4,4,2,4,5.875,SYNTHETIC: explanations are easy to follow; workload feels heavy; slow response to queries; unclear weekly plan
+353,6,7,5,3,6,6,7,5,5.625,SYNTHETIC: explanations are easy to follow; tasks are fair
+681,7,2,7,5,2,1,3,7,4.25,SYNTHETIC: concepts feel confusing; need more support for doubts; unclear weekly plan; slides are helpful
+394,6,3,6,10,7,4,3,3,5.25,SYNTHETIC: concepts feel confusing; workload feels heavy; doubt solving is helpful; unclear weekly plan
+188,7,6,8,9,9,8,9,10,8.25,SYNTHETIC: tasks felt challenging; mentor support is good; slides are helpful
+641,5,10,6,7,4,2,5,4,5.375,SYNTHETIC: concepts are clear; tasks felt challenging; hard to get help when needed; unclear weekly plan
+544,10,7,8,4,6,5,7,8,6.875,SYNTHETIC: teaching is clear and concise; presentations add value
+163,9,3,4,7,3,8,6,8,6.0,SYNTHETIC: need clearer explanations; workload feels heavy; slow response to queries; presentations are text-heavy
+283,9,2,6,1,2,10,5,5,5.0,SYNTHETIC: concepts feel confusing; tasks are fair; slow response to queries
+820,6,5,4,9,2,5,10,7,6.0,SYNTHETIC: tasks felt challenging; hard to get help when needed; presentations are text-heavy
+254,6,6,6,8,9,4,4,8,6.375,SYNTHETIC: assignments are too hard; got quick support; course needs better structure
+221,9,6,8,1,8,2,5,6,5.625,SYNTHETIC: tasks are fair; doubt solving is helpful; course needs better structure; presentations add value
+736,8,2,8,8,2,6,5,4,5.375,SYNTHETIC: concepts feel confusing; tasks felt challenging; hard to get help when needed; presentations add value
+280,9,10,4,7,7,3,5,4,6.125,SYNTHETIC: concepts are clear; assignments are too hard; got quick support; course needs better structure; presentations are text-heavy
+976,5,2,5,5,7,9,4,3,5.0,SYNTHETIC: concepts feel confusing; got quick support
+481,9,10,8,9,1,3,1,9,6.25,SYNTHETIC: teaching is clear and concise; assignments are too hard; need more support for doubts; unclear weekly plan; slides are helpful
+80,7,6,4,1,5,6,1,8,4.75,SYNTHETIC: assignments are manageable; presentations are text-heavy
+473,10,10,7,5,2,6,10,5,6.875,SYNTHETIC: concepts are clear; hard to get help when needed; slides are helpful
+762,10,7,5,7,8,9,3,4,6.625,SYNTHETIC: concepts are clear; tasks felt challenging; doubt solving is helpful
+385,5,2,6,7,3,2,10,1,4.5,SYNTHETIC: concepts feel confusing; tasks felt challenging; need more support for doubts; unclear weekly plan
+195,9,7,5,5,10,10,5,1,6.5,SYNTHETIC: teaching is clear and concise; got quick support
+144,8,6,5,6,3,8,2,6,5.5,SYNTHETIC: need more support for doubts
+767,10,10,8,3,9,6,4,8,7.25,SYNTHETIC: explanations are easy to follow; tasks are fair; got quick support; presentations add value
+300,6,8,4,5,5,9,5,4,5.75,SYNTHETIC: teaching is clear and concise; presentations are text-heavy
+580,5,2,5,8,6,5,4,9,5.5,SYNTHETIC: need clearer explanations; workload feels heavy
+216,5,9,8,2,4,8,9,10,6.875,SYNTHETIC: teaching is clear and concise; workload is reasonable; hard to get help when needed; presentations add value
+583,9,3,4,6,5,3,8,7,5.625,SYNTHETIC: struggled to follow some topics; course needs better structure; presentations are text-heavy
+881,7,9,5,9,4,5,4,8,6.375,SYNTHETIC: explanations are easy to follow; workload feels heavy; need more support for doubts
+488,8,8,6,9,7,4,6,1,6.125,SYNTHETIC: concepts are clear; assignments are too hard; mentor support is good; unclear weekly plan
+892,5,8,8,9,6,9,10,6,7.625,SYNTHETIC: teaching is clear and concise; assignments are too hard; presentations add value
+152,7,2,5,1,5,10,5,6,5.125,SYNTHETIC: struggled to follow some topics; workload is reasonable
+925,7,10,6,7,9,10,1,3,6.625,SYNTHETIC: teaching is clear and concise; workload feels heavy; doubt solving is helpful
+729,9,9,8,7,5,4,5,5,6.5,SYNTHETIC: concepts are clear; workload feels heavy; course needs better structure; slides are helpful
+647,5,5,8,8,9,6,9,8,7.25,SYNTHETIC: assignments are too hard; doubt solving is helpful; presentations add value
+686,8,6,5,5,2,6,5,8,5.625,SYNTHETIC: slow response to queries
+93,9,10,6,4,9,6,7,8,7.375,SYNTHETIC: explanations are easy to follow; mentor support is good
+485,8,4,7,1,4,7,1,4,4.5,SYNTHETIC: struggled to follow some topics; tasks are fair; slow response to queries; presentations add value
+59,5,8,5,6,10,3,4,10,6.375,SYNTHETIC: teaching is clear and concise; mentor support is good; unclear weekly plan
+907,10,4,7,6,1,2,5,1,4.5,SYNTHETIC: struggled to follow some topics; need more support for doubts; unclear weekly plan; slides are helpful
+158,10,6,5,6,2,10,3,8,6.25,SYNTHETIC: slow response to queries
+955,10,4,4,1,10,1,10,10,6.25,SYNTHETIC: concepts feel confusing; workload is reasonable; got quick support; unclear weekly plan; presentations are text-heavy
+758,8,3,7,7,9,6,7,5,6.5,SYNTHETIC: concepts feel confusing; workload feels heavy; got quick support; slides are helpful
+605,6,4,4,4,7,5,5,2,4.625,SYNTHETIC: need clearer explanations; mentor support is good; presentations are text-heavy
+475,10,6,4,9,3,1,6,7,5.75,SYNTHETIC: assignments are too hard; need more support for doubts; unclear weekly plan; slides could be improved
+154,9,7,4,8,2,6,3,9,6.0,SYNTHETIC: concepts are clear; tasks felt challenging; slow response to queries; slides could be improved
+79,6,4,6,6,6,4,9,10,6.375,SYNTHETIC: need clearer explanations; course needs better structure
+36,10,6,5,2,1,9,9,6,6.0,SYNTHETIC: tasks are fair; hard to get help when needed
+562,6,3,6,7,8,7,4,1,5.25,SYNTHETIC: concepts feel confusing; workload feels heavy; got quick support
+231,10,7,8,1,3,3,3,3,4.75,SYNTHETIC: explanations are easy to follow; tasks are fair; need more support for doubts; unclear weekly plan; slides are helpful
+869,8,7,6,2,9,4,1,7,5.5,SYNTHETIC: teaching is clear and concise; workload is reasonable; mentor support is good; unclear weekly plan
+608,7,4,6,5,4,7,8,7,6.0,SYNTHETIC: concepts feel confusing; slow response to queries
+846,10,7,7,4,7,10,7,1,6.625,SYNTHETIC: concepts are clear; got quick support; slides are helpful
+542,10,4,7,7,2,2,5,9,5.75,SYNTHETIC: struggled to follow some topics; assignments are too hard; need more support for doubts; course needs better structure; presentations add value
+941,9,3,7,2,9,7,3,1,5.125,SYNTHETIC: need clearer explanations; assignments are manageable; mentor support is good; presentations add value
+919,10,2,8,5,6,3,8,5,5.875,SYNTHETIC: need clearer explanations; unclear weekly plan; presentations add value
+352,6,2,6,3,5,3,8,6,4.875,SYNTHETIC: concepts feel confusing; assignments are manageable; course needs better structure
+839,9,2,5,10,4,4,9,1,5.5,SYNTHETIC: concepts feel confusing; assignments are too hard; hard to get help when needed; unclear weekly plan
+266,8,8,5,6,6,8,2,2,5.625,SYNTHETIC: teaching is clear and concise
+298,8,4,8,9,7,1,7,3,5.875,SYNTHETIC: concepts feel confusing; workload feels heavy; doubt solving is helpful; course needs better structure; slides are helpful
+929,10,2,6,1,1,9,9,7,5.625,SYNTHETIC: need clearer explanations; tasks are fair; need more support for doubts
+574,6,4,8,5,9,5,7,10,6.75,SYNTHETIC: need clearer explanations; doubt solving is helpful; slides are helpful
+250,5,7,7,3,1,6,3,1,4.125,SYNTHETIC: explanations are easy to follow; assignments are manageable; hard to get help when needed; slides are helpful
+616,9,8,6,9,6,3,5,8,6.75,SYNTHETIC: explanations are easy to follow; workload feels heavy; unclear weekly plan
+164,8,5,7,10,8,9,10,1,7.25,SYNTHETIC: assignments are too hard; got quick support; presentations add value
+827,6,3,4,9,7,8,7,6,6.25,SYNTHETIC: concepts feel confusing; tasks felt challenging; doubt solving is helpful; presentations are text-heavy
+228,7,6,6,1,6,6,6,9,5.875,SYNTHETIC: workload is reasonable
+787,10,10,5,10,1,9,3,8,7.0,SYNTHETIC: concepts are clear; tasks felt challenging; slow response to queries
+317,8,8,4,1,10,10,9,1,6.375,SYNTHETIC: explanations are easy to follow; workload is reasonable; doubt solving is helpful; presentations are text-heavy
+110,9,6,4,1,4,7,9,5,5.625,SYNTHETIC: workload is reasonable; hard to get help when needed; presentations are text-heavy
+165,6,2,6,2,2,10,2,2,4.0,SYNTHETIC: need clearer explanations; tasks are fair; slow response to queries
+701,5,9,7,1,9,9,1,9,6.25,SYNTHETIC: concepts are clear; assignments are manageable; doubt solving is helpful; presentations add value
+362,7,9,6,7,4,8,1,2,5.5,SYNTHETIC: teaching is clear and concise; workload feels heavy; need more support for doubts
+890,8,7,5,3,9,1,4,5,5.25,SYNTHETIC: teaching is clear and concise; workload is reasonable; mentor support is good; unclear weekly plan
+728,10,9,4,8,5,2,3,10,6.375,SYNTHETIC: concepts are clear; assignments are too hard; course needs better structure; slides could be improved
+466,9,8,5,5,6,2,10,4,6.125,SYNTHETIC: teaching is clear and concise; course needs better structure
+709,9,3,6,4,4,8,10,1,5.625,SYNTHETIC: struggled to follow some topics; need more support for doubts
+482,10,3,4,3,10,1,8,5,5.5,SYNTHETIC: concepts feel confusing; workload is reasonable; mentor support is good; unclear weekly plan; slides could be improved
+406,9,10,6,1,6,1,9,2,5.5,SYNTHETIC: concepts are clear; tasks are fair; unclear weekly plan
+66,8,5,8,7,6,1,9,9,6.625,SYNTHETIC: workload feels heavy; course needs better structure; slides are helpful
+862,6,5,6,5,7,2,10,8,6.125,SYNTHETIC: got quick support; course needs better structure
+61,9,8,6,5,3,10,6,6,6.625,SYNTHETIC: teaching is clear and concise; need more support for doubts
+111,7,9,7,1,10,10,3,10,7.125,SYNTHETIC: explanations are easy to follow; assignments are manageable; got quick support; presentations add value
+147,6,8,4,6,9,6,8,7,6.75,SYNTHETIC: explanations are easy to follow; got quick support; presentations are text-heavy
+211,7,4,4,3,7,8,7,10,6.25,SYNTHETIC: struggled to follow some topics; assignments are manageable; mentor support is good; presentations are text-heavy
+996,6,5,6,10,8,7,8,4,6.75,SYNTHETIC: workload feels heavy; doubt solving is helpful
+459,8,5,8,6,6,1,8,4,5.75,SYNTHETIC: unclear weekly plan; slides are helpful
+81,5,5,6,5,7,3,9,5,5.625,SYNTHETIC: mentor support is good; course needs better structure
+288,5,9,6,9,4,4,2,6,5.625,SYNTHETIC: concepts are clear; assignments are too hard; need more support for doubts; course needs better structure
+6,7,10,8,3,3,4,1,2,4.75,SYNTHETIC: explanations are easy to follow; assignments are manageable; need more support for doubts; unclear weekly plan; presentations add value
+547,6,6,8,5,1,2,2,8,4.75,SYNTHETIC: hard to get help when needed; course needs better structure; slides are helpful
+30,6,2,7,5,1,10,9,10,6.25,SYNTHETIC: need clearer explanations; need more support for doubts; slides are helpful
+445,9,4,4,2,4,8,1,6,4.75,SYNTHETIC: struggled to follow some topics; workload is reasonable; need more support for doubts; presentations are text-heavy
+591,6,9,8,5,10,6,2,10,7.0,SYNTHETIC: concepts are clear; mentor support is good; slides are helpful
+770,10,10,5,7,10,7,7,10,8.25,SYNTHETIC: teaching is clear and concise; assignments are too hard; mentor support is good
+484,9,6,8,10,3,2,8,4,6.25,SYNTHETIC: assignments are too hard; slow response to queries; course needs better structure; slides are helpful
+180,8,4,4,1,6,9,6,1,4.875,SYNTHETIC: need clearer explanations; assignments are manageable; presentations are text-heavy
+946,5,5,5,6,1,3,10,5,5.0,SYNTHETIC: need more support for doubts; course needs better structure
+901,9,8,6,1,2,9,8,2,5.625,SYNTHETIC: teaching is clear and concise; assignments are manageable; need more support for doubts
+517,10,5,7,7,5,10,6,5,6.875,SYNTHETIC: assignments are too hard; slides are helpful
+545,9,4,8,1,8,6,2,4,5.25,SYNTHETIC: concepts feel confusing; tasks are fair; got quick support; slides are helpful
+918,8,3,8,9,9,1,6,1,5.625,SYNTHETIC: struggled to follow some topics; workload feels heavy; mentor support is good; unclear weekly plan; slides are helpful
+652,8,3,4,8,3,2,2,3,4.125,SYNTHETIC: concepts feel confusing; tasks felt challenging; need more support for doubts; unclear weekly plan; slides could be improved
+471,10,10,4,8,2,2,4,7,5.875,SYNTHETIC: concepts are clear; assignments are too hard; hard to get help when needed; unclear weekly plan; slides could be improved
+323,6,8,7,5,4,1,9,3,5.375,SYNTHETIC: teaching is clear and concise; need more support for doubts; course needs better structure; presentations add value
+276,8,5,7,9,1,10,1,2,5.375,SYNTHETIC: workload feels heavy; hard to get help when needed; presentations add value
+672,7,8,5,6,5,10,5,10,7.0,SYNTHETIC: teaching is clear and concise
+337,10,7,6,8,9,5,1,1,5.875,SYNTHETIC: explanations are easy to follow; assignments are too hard; mentor support is good
+468,7,7,8,4,2,1,5,10,5.5,SYNTHETIC: teaching is clear and concise; need more support for doubts; course needs better structure; slides are helpful
+380,8,8,4,8,2,4,9,2,5.625,SYNTHETIC: explanations are easy to follow; tasks felt challenging; need more support for doubts; unclear weekly plan; presentations are text-heavy
+755,9,8,7,2,9,6,3,7,6.375,SYNTHETIC: concepts are clear; assignments are manageable; got quick support; slides are helpful
+267,8,9,4,4,8,4,8,1,5.75,SYNTHETIC: explanations are easy to follow; doubt solving is helpful; unclear weekly plan; presentations are text-heavy
+598,9,3,4,9,3,4,5,1,4.75,SYNTHETIC: concepts feel confusing; workload feels heavy; hard to get help when needed; unclear weekly plan; presentations are text-heavy
+128,6,2,6,1,9,3,9,2,4.75,SYNTHETIC: concepts feel confusing; assignments are manageable; doubt solving is helpful; unclear weekly plan
+444,8,2,6,10,7,2,4,8,5.875,SYNTHETIC: struggled to follow some topics; assignments are too hard; doubt solving is helpful; unclear weekly plan
+572,6,5,4,4,8,6,8,9,6.25,SYNTHETIC: doubt solving is helpful; slides could be improved
+319,8,3,6,6,7,10,8,4,6.5,SYNTHETIC: struggled to follow some topics; doubt solving is helpful
+390,8,6,7,5,1,4,3,9,5.375,SYNTHETIC: need more support for doubts; unclear weekly plan; presentations add value
+176,10,2,6,7,4,10,1,3,5.375,SYNTHETIC: need clearer explanations; tasks felt challenging; hard to get help when needed
+883,7,4,4,2,8,6,7,4,5.25,SYNTHETIC: concepts feel confusing; workload is reasonable; mentor support is good; slides could be improved
+831,5,2,8,3,5,10,7,7,5.875,SYNTHETIC: need clearer explanations; workload is reasonable; slides are helpful
+220,10,5,8,7,9,7,2,7,6.875,SYNTHETIC: tasks felt challenging; got quick support; slides are helpful
+17,7,6,5,3,9,5,5,2,5.25,SYNTHETIC: assignments are manageable; doubt solving is helpful
+938,10,10,6,5,2,9,9,9,7.5,SYNTHETIC: explanations are easy to follow; slow response to queries
+651,8,7,6,3,9,10,6,1,6.25,SYNTHETIC: explanations are easy to follow; assignments are manageable; mentor support is good
+953,5,10,8,10,6,4,6,4,6.625,SYNTHETIC: concepts are clear; tasks felt challenging; course needs better structure; slides are helpful
+902,5,8,6,10,4,5,5,9,6.5,SYNTHETIC: concepts are clear; workload feels heavy; need more support for doubts
+167,7,7,5,8,6,9,9,8,7.375,SYNTHETIC: teaching is clear and concise; assignments are too hard
+669,9,3,4,5,2,2,1,6,4.0,SYNTHETIC: concepts feel confusing; need more support for doubts; unclear weekly plan; slides could be improved
+859,8,3,5,9,10,3,1,6,5.625,SYNTHETIC: need clearer explanations; workload feels heavy; doubt solving is helpful; unclear weekly plan
+120,8,4,7,5,4,4,10,6,6.0,SYNTHETIC: concepts feel confusing; need more support for doubts; course needs better structure; slides are helpful
+293,10,4,7,1,6,7,7,4,5.75,SYNTHETIC: need clearer explanations; assignments are manageable; slides are helpful
+789,10,2,8,7,9,8,1,4,6.125,SYNTHETIC: concepts feel confusing; tasks felt challenging; mentor support is good; presentations add value
+182,5,2,7,2,3,6,1,9,4.375,SYNTHETIC: concepts feel confusing; workload is reasonable; hard to get help when needed; slides are helpful
+369,10,5,4,4,3,7,4,10,5.875,SYNTHETIC: need more support for doubts; presentations are text-heavy
+207,6,8,6,7,9,7,2,5,6.25,SYNTHETIC: teaching is clear and concise; tasks felt challenging; doubt solving is helpful
+842,10,7,5,3,3,6,4,6,5.5,SYNTHETIC: concepts are clear; workload is reasonable; slow response to queries
+38,5,8,7,6,10,8,9,5,7.25,SYNTHETIC: teaching is clear and concise; mentor support is good; slides are helpful
+495,5,4,7,9,6,10,5,9,6.875,SYNTHETIC: struggled to follow some topics; workload feels heavy; presentations add value
+942,10,6,8,3,7,8,4,5,6.375,SYNTHETIC: workload is reasonable; doubt solving is helpful; presentations add value
+752,10,7,4,4,4,9,10,7,6.875,SYNTHETIC: explanations are easy to follow; slow response to queries; presentations are text-heavy
+940,7,3,6,9,10,8,3,5,6.375,SYNTHETIC: need clearer explanations; workload feels heavy; doubt solving is helpful
+648,5,7,7,9,6,3,10,3,6.25,SYNTHETIC: concepts are clear; tasks felt challenging; unclear weekly plan; slides are helpful
+125,6,2,4,5,9,7,7,7,5.875,SYNTHETIC: concepts feel confusing; doubt solving is helpful; slides could be improved
+516,10,2,8,9,2,3,3,1,4.75,SYNTHETIC: concepts feel confusing; assignments are too hard; need more support for doubts; course needs better structure; presentations add value
+963,9,6,4,5,3,3,6,6,5.25,SYNTHETIC: hard to get help when needed; course needs better structure; presentations are text-heavy
+215,5,6,6,2,1,9,5,8,5.25,SYNTHETIC: workload is reasonable; hard to get help when needed
+823,7,5,8,3,4,3,1,10,5.125,SYNTHETIC: assignments are manageable; hard to get help when needed; course needs better structure; presentations add value
+840,5,7,5,6,9,9,10,6,7.125,SYNTHETIC: explanations are easy to follow; got quick support
+429,8,3,5,1,8,1,8,9,5.375,SYNTHETIC: need clearer explanations; tasks are fair; doubt solving is helpful; course needs better structure
+109,6,3,5,6,1,6,6,10,5.375,SYNTHETIC: struggled to follow some topics; need more support for doubts
+795,6,9,8,4,2,6,10,6,6.375,SYNTHETIC: explanations are easy to follow; need more support for doubts; presentations add value
+760,9,4,4,3,8,5,10,1,5.5,SYNTHETIC: struggled to follow some topics; assignments are manageable; mentor support is good; slides could be improved
+536,10,10,4,7,8,7,6,2,6.75,SYNTHETIC: explanations are easy to follow; tasks felt challenging; doubt solving is helpful; presentations are text-heavy
+888,6,6,5,2,3,6,6,3,4.625,SYNTHETIC: tasks are fair; hard to get help when needed
+719,10,10,8,7,6,10,6,4,7.625,SYNTHETIC: concepts are clear; assignments are too hard; slides are helpful
+654,6,4,4,9,5,8,8,2,5.75,SYNTHETIC: need clearer explanations; assignments are too hard; slides could be improved
+947,7,3,8,1,5,9,7,2,5.25,SYNTHETIC: struggled to follow some topics; assignments are manageable; slides are helpful
+403,5,7,6,6,5,6,4,6,5.625,SYNTHETIC: teaching is clear and concise
+124,9,9,7,9,1,9,4,3,6.375,SYNTHETIC: explanations are easy to follow; assignments are too hard; need more support for doubts; slides are helpful
+548,9,8,6,7,1,2,7,6,5.75,SYNTHETIC: concepts are clear; workload feels heavy; hard to get help when needed; course needs better structure
+880,7,3,6,3,5,3,3,10,5.0,SYNTHETIC: struggled to follow some topics; assignments are manageable; course needs better structure
+939,10,10,7,4,1,2,3,9,5.75,SYNTHETIC: concepts are clear; slow response to queries; unclear weekly plan; slides are helpful
+166,6,10,4,4,4,8,4,6,5.75,SYNTHETIC: concepts are clear; need more support for doubts; presentations are text-heavy
+885,5,6,7,7,2,2,5,7,5.125,SYNTHETIC: assignments are too hard; slow response to queries; course needs better structure; slides are helpful
+112,7,9,6,9,1,7,1,2,5.25,SYNTHETIC: concepts are clear; assignments are too hard; slow response to queries
+811,8,8,8,6,1,4,9,1,5.625,SYNTHETIC: concepts are clear; need more support for doubts; unclear weekly plan; presentations add value
+213,10,8,4,10,1,5,6,2,5.75,SYNTHETIC: explanations are easy to follow; tasks felt challenging; hard to get help when needed; presentations are text-heavy
+375,10,4,4,1,3,4,7,9,5.25,SYNTHETIC: need clearer explanations; workload is reasonable; slow response to queries; unclear weekly plan; slides could be improved
+897,6,7,4,1,9,8,8,7,6.25,SYNTHETIC: teaching is clear and concise; workload is reasonable; doubt solving is helpful; presentations are text-heavy
+460,7,8,5,6,7,7,6,7,6.625,SYNTHETIC: concepts are clear; got quick support
+416,6,2,5,8,9,6,3,7,5.75,SYNTHETIC: need clearer explanations; tasks felt challenging; doubt solving is helpful
+571,8,9,7,3,1,8,9,7,6.5,SYNTHETIC: concepts are clear; tasks are fair; hard to get help when needed; slides are helpful
+744,8,5,7,3,10,4,6,7,6.25,SYNTHETIC: tasks are fair; doubt solving is helpful; course needs better structure; presentations add value
+378,9,8,7,2,4,7,2,6,5.625,SYNTHETIC: explanations are easy to follow; tasks are fair; hard to get help when needed; slides are helpful
+121,5,9,5,2,4,5,6,6,5.25,SYNTHETIC: explanations are easy to follow; workload is reasonable; slow response to queries
+462,10,4,8,5,4,6,4,7,6.0,SYNTHETIC: need clearer explanations; slow response to queries; presentations add value
+777,8,6,4,6,4,7,10,1,5.75,SYNTHETIC: slow response to queries; slides could be improved
+845,5,10,6,8,4,4,4,5,5.75,SYNTHETIC: teaching is clear and concise; tasks felt challenging; hard to get help when needed; unclear weekly plan
+533,6,10,5,7,2,5,10,10,6.875,SYNTHETIC: concepts are clear; workload feels heavy; need more support for doubts
+450,5,2,6,2,4,5,1,4,3.625,SYNTHETIC: struggled to follow some topics; workload is reasonable; hard to get help when needed
+717,6,2,4,6,6,2,6,9,5.125,SYNTHETIC: need clearer explanations; course needs better structure; slides could be improved
+469,10,8,6,1,3,5,8,10,6.375,SYNTHETIC: concepts are clear; assignments are manageable; slow response to queries
+670,7,7,8,1,6,1,2,1,4.125,SYNTHETIC: concepts are clear; workload is reasonable; course needs better structure; presentations add value
+137,8,2,5,2,4,9,7,8,5.625,SYNTHETIC: concepts feel confusing; workload is reasonable; slow response to queries
+801,10,7,4,3,6,1,10,4,5.625,SYNTHETIC: concepts are clear; workload is reasonable; course needs better structure; presentations are text-heavy
+315,5,10,5,10,8,4,8,4,6.75,SYNTHETIC: teaching is clear and concise; tasks felt challenging; mentor support is good; course needs better structure
+153,7,7,5,3,8,9,8,9,7.0,SYNTHETIC: teaching is clear and concise; assignments are manageable; mentor support is good
+190,8,6,7,5,6,4,3,8,5.875,SYNTHETIC: course needs better structure; presentations add value
+22,7,9,4,1,2,8,10,4,5.625,SYNTHETIC: teaching is clear and concise; tasks are fair; slow response to queries; presentations are text-heavy
+949,9,8,7,1,7,6,9,4,6.375,SYNTHETIC: concepts are clear; tasks are fair; mentor support is good; slides are helpful
+523,10,2,6,9,7,5,10,9,7.25,SYNTHETIC: concepts feel confusing; workload feels heavy; doubt solving is helpful
+527,5,6,5,2,8,6,9,8,6.125,SYNTHETIC: workload is reasonable; mentor support is good
+461,7,10,7,6,6,8,4,9,7.125,SYNTHETIC: teaching is clear and concise; slides are helpful
+244,5,8,4,9,3,10,1,3,5.375,SYNTHETIC: concepts are clear; workload feels heavy; slow response to queries; slides could be improved
+363,9,3,8,10,2,7,5,1,5.625,SYNTHETIC: need clearer explanations; assignments are too hard; slow response to queries; slides are helpful
+610,8,10,6,8,2,1,5,1,5.125,SYNTHETIC: concepts are clear; assignments are too hard; slow response to queries; unclear weekly plan
+381,9,2,8,8,1,9,1,2,5.0,SYNTHETIC: need clearer explanations; assignments are too hard; slow response to queries; presentations add value
+954,8,8,6,3,9,5,7,2,6.0,SYNTHETIC: concepts are clear; tasks are fair; doubt solving is helpful
+604,10,9,8,9,4,8,7,9,8.0,SYNTHETIC: explanations are easy to follow; assignments are too hard; hard to get help when needed; slides are helpful
+414,10,6,4,8,2,9,9,3,6.375,SYNTHETIC: workload feels heavy; hard to get help when needed; presentations are text-heavy
+151,8,7,5,10,8,3,8,6,6.875,SYNTHETIC: explanations are easy to follow; tasks felt challenging; mentor support is good; unclear weekly plan
+721,6,9,4,1,4,10,10,9,6.625,SYNTHETIC: concepts are clear; assignments are manageable; slow response to queries; presentations are text-heavy
+664,10,8,7,4,8,2,1,10,6.25,SYNTHETIC: concepts are clear; doubt solving is helpful; course needs better structure; slides are helpful
+956,7,2,6,5,2,3,8,7,5.0,SYNTHETIC: struggled to follow some topics; hard to get help when needed; course needs better structure
+747,5,3,5,6,5,10,3,6,5.375,SYNTHETIC: need clearer explanations
+438,9,6,5,9,2,3,9,3,5.75,SYNTHETIC: workload feels heavy; slow response to queries; unclear weekly plan
+975,5,10,4,8,7,6,8,3,6.375,SYNTHETIC: teaching is clear and concise; workload feels heavy; got quick support; slides could be improved
+277,5,6,8,7,2,7,1,10,5.75,SYNTHETIC: workload feels heavy; slow response to queries; slides are helpful
+312,7,2,7,6,6,3,7,2,5.0,SYNTHETIC: struggled to follow some topics; course needs better structure; slides are helpful
+565,10,9,7,10,4,8,5,4,7.125,SYNTHETIC: teaching is clear and concise; tasks felt challenging; slow response to queries; slides are helpful
+739,8,7,5,10,1,1,8,1,5.125,SYNTHETIC: teaching is clear and concise; assignments are too hard; slow response to queries; unclear weekly plan
+584,8,8,5,8,6,6,9,4,6.75,SYNTHETIC: explanations are easy to follow; tasks felt challenging
+894,6,3,5,4,7,1,5,5,4.5,SYNTHETIC: struggled to follow some topics; mentor support is good; unclear weekly plan
+270,9,10,5,9,6,4,7,7,7.125,SYNTHETIC: concepts are clear; tasks felt challenging; course needs better structure
+966,7,4,5,3,1,8,10,2,5.0,SYNTHETIC: need clearer explanations; tasks are fair; need more support for doubts
+489,7,2,5,8,1,1,8,8,5.0,SYNTHETIC: concepts feel confusing; tasks felt challenging; slow response to queries; unclear weekly plan
+665,6,3,4,2,8,5,8,5,5.125,SYNTHETIC: need clearer explanations; assignments are manageable; doubt solving is helpful; slides could be improved
+71,9,10,8,4,9,3,8,2,6.625,SYNTHETIC: concepts are clear; got quick support; course needs better structure; slides are helpful
+603,7,2,7,1,7,7,1,7,4.875,SYNTHETIC: concepts feel confusing; workload is reasonable; mentor support is good; presentations add value
+196,8,10,8,10,6,7,7,7,7.875,SYNTHETIC: teaching is clear and concise; workload feels heavy; presentations add value
+804,9,3,7,6,10,7,9,7,7.25,SYNTHETIC: struggled to follow some topics; doubt solving is helpful; presentations add value
+837,5,10,4,1,4,8,9,1,5.25,SYNTHETIC: teaching is clear and concise; workload is reasonable; need more support for doubts; slides could be improved
+530,6,5,4,9,1,2,3,6,4.5,SYNTHETIC: workload feels heavy; slow response to queries; unclear weekly plan; presentations are text-heavy
+720,6,6,6,9,10,4,6,7,6.75,SYNTHETIC: tasks felt challenging; mentor support is good; course needs better structure
+272,5,4,6,4,4,7,7,9,5.75,SYNTHETIC: need clearer explanations; need more support for doubts
+984,5,10,6,4,2,10,4,6,5.875,SYNTHETIC: concepts are clear; need more support for doubts
+185,10,3,8,4,1,10,7,9,6.5,SYNTHETIC: concepts feel confusing; slow response to queries; slides are helpful
+487,6,6,4,2,10,10,1,9,6.0,SYNTHETIC: workload is reasonable; got quick support; slides could be improved
+75,8,9,8,6,2,7,9,10,7.375,SYNTHETIC: explanations are easy to follow; hard to get help when needed; presentations add value
+718,6,3,6,7,6,6,2,6,5.25,SYNTHETIC: need clearer explanations; workload feels heavy
+496,10,7,4,6,10,5,3,6,6.375,SYNTHETIC: teaching is clear and concise; mentor support is good; slides could be improved
+630,5,5,4,8,3,6,6,8,5.625,SYNTHETIC: tasks felt challenging; hard to get help when needed; slides could be improved
+637,8,10,5,6,10,8,2,2,6.375,SYNTHETIC: teaching is clear and concise; doubt solving is helpful
+360,9,9,8,2,3,1,8,6,5.75,SYNTHETIC: teaching is clear and concise; workload is reasonable; slow response to queries; unclear weekly plan; presentations add value
+183,6,7,5,5,4,7,1,9,5.5,SYNTHETIC: teaching is clear and concise; hard to get help when needed
+689,10,8,7,8,1,9,5,10,7.25,SYNTHETIC: explanations are easy to follow; workload feels heavy; need more support for doubts; presentations add value
+236,6,9,6,4,1,2,8,4,5.0,SYNTHETIC: explanations are easy to follow; hard to get help when needed; unclear weekly plan
+768,6,6,6,3,5,9,8,3,5.75,SYNTHETIC: assignments are manageable
+316,7,2,7,8,6,4,2,9,5.625,SYNTHETIC: need clearer explanations; tasks felt challenging; course needs better structure; presentations add value
+396,6,10,4,6,1,2,4,10,5.375,SYNTHETIC: explanations are easy to follow; hard to get help when needed; course needs better structure; presentations are text-heavy
+212,6,4,4,6,5,10,10,2,5.875,SYNTHETIC: concepts feel confusing; presentations are text-heavy
+830,9,7,7,10,7,8,6,4,7.25,SYNTHETIC: explanations are easy to follow; workload feels heavy; mentor support is good; presentations add value
+209,9,8,5,3,3,10,7,2,5.875,SYNTHETIC: concepts are clear; assignments are manageable; hard to get help when needed
+62,7,4,4,5,3,10,2,1,4.5,SYNTHETIC: concepts feel confusing; slow response to queries; presentations are text-heavy
+447,8,7,7,1,4,7,10,9,6.625,SYNTHETIC: explanations are easy to follow; assignments are manageable; slow response to queries; slides are helpful
+100,6,6,6,10,7,5,7,8,6.875,SYNTHETIC: tasks felt challenging; doubt solving is helpful
+305,10,8,8,4,6,3,10,4,6.625,SYNTHETIC: teaching is clear and concise; course needs better structure; slides are helpful
+494,10,6,6,6,4,10,2,9,6.625,SYNTHETIC: slow response to queries
+328,10,6,5,4,6,10,8,2,6.375,SYNTHETIC: decent course
+854,8,2,8,4,6,2,4,7,5.125,SYNTHETIC: need clearer explanations; course needs better structure; slides are helpful
+866,5,10,4,8,3,7,4,5,5.75,SYNTHETIC: explanations are easy to follow; workload feels heavy; need more support for doubts; presentations are text-heavy
+943,8,9,7,10,6,7,7,6,7.5,SYNTHETIC: explanations are easy to follow; assignments are too hard; slides are helpful
+734,9,8,5,3,10,1,8,3,5.875,SYNTHETIC: concepts are clear; assignments are manageable; doubt solving is helpful; course needs better structure
+189,9,3,6,2,3,8,10,7,6.0,SYNTHETIC: struggled to follow some topics; tasks are fair; slow response to queries
+404,10,5,7,8,1,5,10,4,6.25,SYNTHETIC: tasks felt challenging; hard to get help when needed; presentations add value
+518,7,4,8,5,7,9,2,6,6.0,SYNTHETIC: struggled to follow some topics; doubt solving is helpful; slides are helpful
+856,6,9,4,6,8,8,3,8,6.5,SYNTHETIC: explanations are easy to follow; got quick support; presentations are text-heavy
+70,9,2,5,8,10,9,7,6,7.0,SYNTHETIC: concepts feel confusing; tasks felt challenging; doubt solving is helpful
+457,7,4,8,2,3,6,8,4,5.25,SYNTHETIC: need clearer explanations; tasks are fair; hard to get help when needed; slides are helpful
+148,5,4,4,4,8,10,5,5,5.625,SYNTHETIC: need clearer explanations; doubt solving is helpful; presentations are text-heavy
+958,10,10,5,8,5,10,7,8,7.875,SYNTHETIC: teaching is clear and concise; assignments are too hard
+356,7,3,7,6,4,2,1,10,5.0,SYNTHETIC: concepts feel confusing; slow response to queries; unclear weekly plan; presentations add value
+793,10,9,6,4,7,6,8,3,6.625,SYNTHETIC: teaching is clear and concise; doubt solving is helpful
+771,8,7,6,4,8,7,3,2,5.625,SYNTHETIC: concepts are clear; doubt solving is helpful
+452,5,6,7,9,7,8,6,1,6.125,SYNTHETIC: tasks felt challenging; mentor support is good; presentations add value
+72,8,7,7,3,4,1,4,7,5.125,SYNTHETIC: explanations are easy to follow; workload is reasonable; need more support for doubts; course needs better structure; presentations add value
+710,7,2,6,5,7,7,6,10,6.25,SYNTHETIC: concepts feel confusing; got quick support
+980,6,3,7,1,5,4,9,4,4.875,SYNTHETIC: struggled to follow some topics; workload is reasonable; unclear weekly plan; slides are helpful
+145,6,8,4,6,1,3,2,7,4.625,SYNTHETIC: concepts are clear; slow response to queries; course needs better structure; slides could be improved
+960,6,9,6,1,3,3,5,8,5.125,SYNTHETIC: teaching is clear and concise; tasks are fair; need more support for doubts; course needs better structure
+660,5,7,7,3,10,3,3,4,5.25,SYNTHETIC: concepts are clear; assignments are manageable; mentor support is good; course needs better structure; presentations add value
+987,9,10,7,8,7,3,8,7,7.375,SYNTHETIC: explanations are easy to follow; assignments are too hard; mentor support is good; course needs better structure; slides are helpful
+534,9,5,7,5,2,6,10,8,6.5,SYNTHETIC: slow response to queries; presentations add value
+858,9,5,5,3,2,2,7,7,5.0,SYNTHETIC: tasks are fair; hard to get help when needed; course needs better structure
+324,10,5,5,2,2,5,7,6,5.25,SYNTHETIC: workload is reasonable; hard to get help when needed
+884,7,4,7,10,5,1,7,4,5.625,SYNTHETIC: struggled to follow some topics; assignments are too hard; course needs better structure; presentations add value
+611,8,9,5,3,9,5,8,3,6.25,SYNTHETIC: explanations are easy to follow; tasks are fair; mentor support is good
+136,8,6,7,10,9,9,2,3,6.75,SYNTHETIC: assignments are too hard; got quick support; slides are helpful
+705,9,3,6,3,3,5,1,2,4.0,SYNTHETIC: concepts feel confusing; assignments are manageable; need more support for doubts
+991,7,4,5,8,9,8,5,1,5.875,SYNTHETIC: struggled to follow some topics; tasks felt challenging; doubt solving is helpful
+676,9,8,5,7,4,10,2,6,6.375,SYNTHETIC: explanations are easy to follow; workload feels heavy; slow response to queries
+769,9,8,8,8,1,1,8,5,6.0,SYNTHETIC: explanations are easy to follow; assignments are too hard; hard to get help when needed; unclear weekly plan; slides are helpful
+246,7,10,8,8,4,10,3,8,7.25,SYNTHETIC: explanations are easy to follow; workload feels heavy; need more support for doubts; slides are helpful
+644,9,6,8,2,7,6,4,6,6.0,SYNTHETIC: tasks are fair; doubt solving is helpful; presentations add value
+263,7,9,4,7,9,8,10,7,7.625,SYNTHETIC: teaching is clear and concise; assignments are too hard; doubt solving is helpful; slides could be improved
+476,9,4,6,4,8,6,4,10,6.375,SYNTHETIC: struggled to follow some topics; doubt solving is helpful
+697,7,7,6,1,8,10,5,2,5.75,SYNTHETIC: explanations are easy to follow; tasks are fair; mentor support is good
+95,7,2,5,5,9,6,8,3,5.625,SYNTHETIC: struggled to follow some topics; mentor support is good
+688,8,6,7,5,6,1,4,10,5.875,SYNTHETIC: unclear weekly plan; presentations add value
+633,8,2,4,7,4,6,7,4,5.25,SYNTHETIC: need clearer explanations; tasks felt challenging; hard to get help when needed; slides could be improved
+241,8,3,8,8,10,1,8,6,6.5,SYNTHETIC: struggled to follow some topics; workload feels heavy; got quick support; unclear weekly plan; presentations add value
+524,9,8,4,6,10,1,9,10,7.125,SYNTHETIC: explanations are easy to follow; mentor support is good; course needs better structure; presentations are text-heavy
+504,9,4,5,6,6,1,7,10,6.0,SYNTHETIC: need clearer explanations; course needs better structure
+417,9,6,7,9,5,1,7,2,5.75,SYNTHETIC: workload feels heavy; course needs better structure; presentations add value
+554,6,6,8,2,4,6,4,10,5.75,SYNTHETIC: workload is reasonable; slow response to queries; slides are helpful
+656,6,2,7,2,5,6,9,9,5.75,SYNTHETIC: concepts feel confusing; tasks are fair; presentations add value
+19,10,4,6,3,9,10,9,3,6.75,SYNTHETIC: struggled to follow some topics; assignments are manageable; doubt solving is helpful
+275,8,5,4,9,5,5,8,10,6.75,SYNTHETIC: tasks felt challenging; presentations are text-heavy
+478,5,10,7,6,8,7,3,9,6.875,SYNTHETIC: concepts are clear; mentor support is good; presentations add value
+132,6,9,5,8,10,3,2,10,6.625,SYNTHETIC: concepts are clear; workload feels heavy; mentor support is good; course needs better structure
+515,8,3,5,10,3,4,9,4,5.75,SYNTHETIC: need clearer explanations; assignments are too hard; slow response to queries; course needs better structure
+44,8,9,5,3,6,9,4,9,6.625,SYNTHETIC: teaching is clear and concise; assignments are manageable
+388,6,10,4,5,6,4,4,9,6.0,SYNTHETIC: explanations are easy to follow; course needs better structure; slides could be improved
+204,8,7,6,3,3,10,3,6,5.75,SYNTHETIC: explanations are easy to follow; workload is reasonable; slow response to queries
+338,5,2,4,6,9,10,9,4,6.125,SYNTHETIC: struggled to follow some topics; doubt solving is helpful; slides could be improved
+619,8,7,6,4,3,9,3,8,6.0,SYNTHETIC: teaching is clear and concise; slow response to queries
+205,8,4,4,2,1,7,9,7,5.25,SYNTHETIC: struggled to follow some topics; tasks are fair; hard to get help when needed; slides could be improved
+39,7,3,7,10,6,4,8,2,5.875,SYNTHETIC: struggled to follow some topics; assignments are too hard; course needs better structure; slides are helpful
+53,5,8,5,1,10,8,5,7,6.125,SYNTHETIC: explanations are easy to follow; assignments are manageable; doubt solving is helpful
+58,9,3,7,1,2,3,10,7,5.25,SYNTHETIC: need clearer explanations; assignments are manageable; hard to get help when needed; course needs better structure; presentations add value
+157,9,6,8,2,8,4,4,3,5.5,SYNTHETIC: assignments are manageable; got quick support; course needs better structure; presentations add value
+28,8,6,6,9,9,9,4,7,7.25,SYNTHETIC: workload feels heavy; mentor support is good
+833,8,6,7,7,7,9,10,9,7.875,SYNTHETIC: workload feels heavy; mentor support is good; presentations add value
+252,8,9,4,6,10,2,7,5,6.375,SYNTHETIC: teaching is clear and concise; doubt solving is helpful; unclear weekly plan; slides could be improved
+658,8,5,6,7,10,4,6,4,6.25,SYNTHETIC: tasks felt challenging; mentor support is good; course needs better structure
+179,6,3,7,6,2,6,5,2,4.625,SYNTHETIC: need clearer explanations; need more support for doubts; slides are helpful
+851,9,6,4,10,2,1,3,10,5.625,SYNTHETIC: workload feels heavy; need more support for doubts; unclear weekly plan; slides could be improved
+809,7,8,7,5,10,2,8,8,6.875,SYNTHETIC: concepts are clear; doubt solving is helpful; course needs better structure; slides are helpful
+330,7,7,5,7,9,10,2,2,6.125,SYNTHETIC: explanations are easy to follow; workload feels heavy; got quick support
+94,10,10,4,7,8,2,4,4,6.125,SYNTHETIC: concepts are clear; assignments are too hard; mentor support is good; course needs better structure; presentations are text-heavy
+826,10,5,7,2,8,7,10,5,6.75,SYNTHETIC: assignments are manageable; doubt solving is helpful; presentations add value
+227,9,3,6,4,7,4,4,7,5.5,SYNTHETIC: need clearer explanations; got quick support; unclear weekly plan
+1000,9,8,5,4,10,7,7,10,7.5,SYNTHETIC: teaching is clear and concise; doubt solving is helpful
+114,10,9,7,1,8,4,4,2,5.625,SYNTHETIC: concepts are clear; tasks are fair; doubt solving is helpful; unclear weekly plan; slides are helpful
+251,5,9,6,9,6,4,5,2,5.75,SYNTHETIC: explanations are easy to follow; tasks felt challenging; course needs better structure
+613,5,6,6,3,9,4,2,9,5.5,SYNTHETIC: tasks are fair; mentor support is good; unclear weekly plan
+101,10,5,6,6,9,8,10,3,7.125,SYNTHETIC: got quick support
+871,7,8,7,10,10,7,2,2,6.625,SYNTHETIC: concepts are clear; assignments are too hard; doubt solving is helpful; slides are helpful
+551,6,3,5,7,3,1,9,10,5.5,SYNTHETIC: need clearer explanations; tasks felt challenging; slow response to queries; course needs better structure
+931,6,5,7,3,6,5,6,10,6.0,SYNTHETIC: workload is reasonable; slides are helpful
+49,8,7,8,8,1,1,8,3,5.5,SYNTHETIC: teaching is clear and concise; workload feels heavy; slow response to queries; unclear weekly plan; presentations add value
+512,5,10,7,9,9,9,6,9,8.0,SYNTHETIC: concepts are clear; workload feels heavy; got quick support; presentations add value
+261,9,9,7,7,4,10,5,9,7.5,SYNTHETIC: teaching is clear and concise; tasks felt challenging; need more support for doubts; presentations add value
+754,6,9,4,4,3,10,2,10,6.0,SYNTHETIC: concepts are clear; hard to get help when needed; slides could be improved
+345,8,2,8,9,10,10,9,5,7.625,SYNTHETIC: struggled to follow some topics; workload feels heavy; got quick support; slides are helpful
+970,10,9,5,7,6,7,4,7,6.875,SYNTHETIC: explanations are easy to follow; workload feels heavy
+990,6,9,6,4,9,5,10,8,7.125,SYNTHETIC: concepts are clear; mentor support is good
+911,6,4,4,10,9,4,7,2,5.75,SYNTHETIC: struggled to follow some topics; workload feels heavy; mentor support is good; course needs better structure; presentations are text-heavy
+909,9,8,5,9,5,6,9,7,7.25,SYNTHETIC: concepts are clear; assignments are too hard
+817,6,5,7,10,10,4,6,6,6.75,SYNTHETIC: tasks felt challenging; mentor support is good; unclear weekly plan; slides are helpful
+733,10,10,5,1,4,1,3,4,4.75,SYNTHETIC: teaching is clear and concise; tasks are fair; need more support for doubts; unclear weekly plan
+626,7,9,5,4,9,4,3,1,5.25,SYNTHETIC: explanations are easy to follow; doubt solving is helpful; course needs better structure
+292,7,9,8,1,5,4,7,4,5.625,SYNTHETIC: concepts are clear; tasks are fair; course needs better structure; slides are helpful
+82,5,10,8,4,4,10,5,5,6.375,SYNTHETIC: teaching is clear and concise; slow response to queries; slides are helpful
+355,10,8,5,6,5,10,1,8,6.625,SYNTHETIC: explanations are easy to follow
+948,9,5,4,7,9,3,5,7,6.125,SYNTHETIC: workload feels heavy; mentor support is good; unclear weekly plan; presentations are text-heavy
+341,9,4,4,4,7,5,5,8,5.75,SYNTHETIC: concepts feel confusing; got quick support; slides could be improved
+952,7,9,5,7,8,8,10,5,7.375,SYNTHETIC: explanations are easy to follow; tasks felt challenging; mentor support is good
+711,7,3,4,6,3,7,6,4,5.0,SYNTHETIC: need clearer explanations; hard to get help when needed; presentations are text-heavy
+635,7,3,8,6,7,4,10,5,6.25,SYNTHETIC: struggled to follow some topics; doubt solving is helpful; course needs better structure; slides are helpful
+850,5,8,7,4,8,7,8,6,6.625,SYNTHETIC: teaching is clear and concise; doubt solving is helpful; slides are helpful
+716,6,3,7,9,2,3,3,6,4.875,SYNTHETIC: concepts feel confusing; workload feels heavy; slow response to queries; course needs better structure; slides are helpful
+627,10,2,4,1,6,5,9,5,5.25,SYNTHETIC: concepts feel confusing; tasks are fair; presentations are text-heavy
+661,6,10,4,3,8,2,7,6,5.75,SYNTHETIC: teaching is clear and concise; workload is reasonable; mentor support is good; course needs better structure; slides could be improved
+877,8,9,4,5,10,10,10,2,7.25,SYNTHETIC: concepts are clear; doubt solving is helpful; presentations are text-heavy
+177,8,2,6,2,8,1,9,9,5.625,SYNTHETIC: need clearer explanations; assignments are manageable; got quick support; course needs better structure
+322,8,10,7,3,3,3,1,5,5.0,SYNTHETIC: teaching is clear and concise; workload is reasonable; slow response to queries; unclear weekly plan; presentations add value
+914,9,2,4,2,4,2,2,9,4.25,SYNTHETIC: concepts feel confusing; workload is reasonable; slow response to queries; unclear weekly plan; slides could be improved
+486,10,9,5,1,4,10,6,9,6.75,SYNTHETIC: explanations are easy to follow; tasks are fair; need more support for doubts
+723,6,10,5,3,10,3,6,4,5.875,SYNTHETIC: explanations are easy to follow; tasks are fair; doubt solving is helpful; unclear weekly plan
+105,9,10,5,1,3,1,1,2,4.0,SYNTHETIC: concepts are clear; workload is reasonable; need more support for doubts; course needs better structure
+52,6,10,4,1,7,3,10,2,5.375,SYNTHETIC: teaching is clear and concise; assignments are manageable; got quick support; unclear weekly plan; slides could be improved
+436,9,9,4,10,1,10,10,2,6.875,SYNTHETIC: explanations are easy to follow; workload feels heavy; slow response to queries; slides could be improved
+829,6,9,5,3,2,2,10,9,5.75,SYNTHETIC: concepts are clear; workload is reasonable; hard to get help when needed; course needs better structure
+753,5,10,8,7,5,10,9,7,7.625,SYNTHETIC: teaching is clear and concise; workload feels heavy; presentations add value
+130,7,9,5,9,3,2,5,4,5.5,SYNTHETIC: concepts are clear; workload feels heavy; need more support for doubts; unclear weekly plan
+91,6,5,4,2,5,8,3,3,4.5,SYNTHETIC: workload is reasonable; slides could be improved
+590,10,3,4,4,9,9,6,2,5.875,SYNTHETIC: concepts feel confusing; doubt solving is helpful; presentations are text-heavy
+965,10,3,4,5,10,3,7,3,5.625,SYNTHETIC: need clearer explanations; mentor support is good; course needs better structure; presentations are text-heavy
+99,8,9,6,2,2,3,10,6,5.75,SYNTHETIC: explanations are easy to follow; assignments are manageable; hard to get help when needed; course needs better structure
+912,7,10,7,10,2,7,5,7,6.875,SYNTHETIC: teaching is clear and concise; workload feels heavy; hard to get help when needed; presentations add value
+395,9,6,8,2,7,9,8,10,7.375,SYNTHETIC: workload is reasonable; doubt solving is helpful; slides are helpful
+923,6,3,5,6,9,4,10,3,5.75,SYNTHETIC: concepts feel confusing; mentor support is good; unclear weekly plan
+499,7,9,8,3,5,1,5,2,5.0,SYNTHETIC: concepts are clear; assignments are manageable; unclear weekly plan; slides are helpful
+115,5,5,7,1,3,8,1,10,5.0,SYNTHETIC: workload is reasonable; slow response to queries; presentations add value
+815,5,9,6,6,2,9,5,3,5.625,SYNTHETIC: explanations are easy to follow; slow response to queries
+570,10,10,6,8,9,2,8,10,7.875,SYNTHETIC: teaching is clear and concise; assignments are too hard; mentor support is good; course needs better structure
+825,9,7,8,1,3,2,9,3,5.25,SYNTHETIC: teaching is clear and concise; workload is reasonable; need more support for doubts; course needs better structure; slides are helpful
+620,9,5,8,2,8,10,8,8,7.25,SYNTHETIC: tasks are fair; doubt solving is helpful; slides are helpful
+175,10,9,8,2,1,6,7,2,5.625,SYNTHETIC: teaching is clear and concise; tasks are fair; slow response to queries; presentations add value
+358,5,7,4,3,3,10,3,4,4.875,SYNTHETIC: teaching is clear and concise; tasks are fair; slow response to queries; presentations are text-heavy
+191,7,4,5,2,5,10,4,7,5.5,SYNTHETIC: concepts feel confusing; assignments are manageable
+492,6,5,8,10,3,8,3,2,5.625,SYNTHETIC: workload feels heavy; hard to get help when needed; presentations add value
+529,9,6,6,1,4,10,1,7,5.5,SYNTHETIC: tasks are fair; hard to get help when needed
+389,5,5,8,6,2,3,5,7,5.125,SYNTHETIC: hard to get help when needed; course needs better structure; presentations add value
+878,6,5,8,4,10,3,9,10,6.875,SYNTHETIC: mentor support is good; course needs better structure; slides are helpful
+368,7,9,8,3,2,7,4,1,5.125,SYNTHETIC: explanations are easy to follow; assignments are manageable; slow response to queries; presentations add value
+122,7,5,5,3,9,6,9,2,5.75,SYNTHETIC: assignments are manageable; doubt solving is helpful
+332,9,2,7,2,8,7,4,10,6.125,SYNTHETIC: concepts feel confusing; assignments are manageable; doubt solving is helpful; slides are helpful
+303,7,4,5,4,7,2,1,6,4.5,SYNTHETIC: concepts feel confusing; mentor support is good; unclear weekly plan
+336,8,10,4,5,6,7,2,3,5.625,SYNTHETIC: explanations are easy to follow; slides could be improved
+588,6,6,4,10,10,10,3,9,7.25,SYNTHETIC: tasks felt challenging; mentor support is good; slides could be improved
+609,10,9,4,4,1,5,9,10,6.5,SYNTHETIC: explanations are easy to follow; need more support for doubts; presentations are text-heavy
+920,10,6,7,10,10,2,4,2,6.375,SYNTHETIC: tasks felt challenging; got quick support; unclear weekly plan; presentations add value
+370,9,4,7,10,1,10,2,7,6.25,SYNTHETIC: struggled to follow some topics; assignments are too hard; hard to get help when needed; slides are helpful
+405,10,2,5,5,5,1,4,6,4.75,SYNTHETIC: concepts feel confusing; course needs better structure
+779,10,8,6,3,8,8,7,8,7.25,SYNTHETIC: concepts are clear; workload is reasonable; doubt solving is helpful
+962,10,6,4,5,1,7,1,10,5.5,SYNTHETIC: hard to get help when needed; slides could be improved
+268,10,6,5,9,9,1,8,6,6.75,SYNTHETIC: tasks felt challenging; got quick support; unclear weekly plan
+625,10,7,6,7,9,6,3,3,6.375,SYNTHETIC: teaching is clear and concise; tasks felt challenging; doubt solving is helpful
+217,8,9,8,3,8,5,5,5,6.375,SYNTHETIC: concepts are clear; tasks are fair; doubt solving is helpful; presentations add value
+479,10,10,4,6,5,9,2,3,6.125,SYNTHETIC: explanations are easy to follow; presentations are text-heavy
+500,9,5,8,4,2,2,5,1,4.5,SYNTHETIC: need more support for doubts; unclear weekly plan; slides are helpful
+409,8,9,7,3,10,4,6,1,6.0,SYNTHETIC: teaching is clear and concise; tasks are fair; got quick support; course needs better structure; slides are helpful
+546,7,7,5,1,9,8,1,1,4.875,SYNTHETIC: explanations are easy to follow; tasks are fair; got quick support
+967,5,5,8,8,1,9,8,5,6.125,SYNTHETIC: tasks felt challenging; need more support for doubts; slides are helpful
+343,8,4,7,1,10,8,2,6,5.75,SYNTHETIC: need clearer explanations; assignments are manageable; got quick support; presentations add value
+639,7,4,7,7,6,10,5,7,6.625,SYNTHETIC: struggled to follow some topics; workload feels heavy; slides are helpful
+402,6,8,6,9,4,8,5,7,6.625,SYNTHETIC: concepts are clear; tasks felt challenging; need more support for doubts
+617,5,7,5,4,7,1,10,6,5.625,SYNTHETIC: teaching is clear and concise; got quick support; course needs better structure
+349,6,8,8,2,9,9,2,8,6.5,SYNTHETIC: teaching is clear and concise; assignments are manageable; got quick support; slides are helpful
+994,8,5,5,2,5,5,9,5,5.5,SYNTHETIC: workload is reasonable
+279,5,10,7,1,4,4,9,4,5.5,SYNTHETIC: teaching is clear and concise; tasks are fair; slow response to queries; course needs better structure; presentations add value
+926,10,7,5,1,1,6,6,1,4.625,SYNTHETIC: teaching is clear and concise; assignments are manageable; slow response to queries
+816,10,8,5,9,2,7,9,3,6.625,SYNTHETIC: teaching is clear and concise; tasks felt challenging; need more support for doubts
+765,8,7,8,5,7,7,7,7,7.0,SYNTHETIC: explanations are easy to follow; mentor support is good; slides are helpful
+160,10,6,5,4,2,10,4,7,6.0,SYNTHETIC: hard to get help when needed
+606,8,3,8,1,6,4,8,9,5.875,SYNTHETIC: need clearer explanations; tasks are fair; course needs better structure; presentations add value
+602,5,3,6,2,8,10,3,1,4.75,SYNTHETIC: struggled to follow some topics; tasks are fair; doubt solving is helpful
+893,10,6,8,1,1,10,1,3,5.0,SYNTHETIC: assignments are manageable; slow response to queries; slides are helpful
+810,9,6,7,3,5,9,10,5,6.75,SYNTHETIC: assignments are manageable; presentations add value
+802,8,2,6,6,3,8,7,7,5.875,SYNTHETIC: concepts feel confusing; need more support for doubts
+162,6,2,5,2,10,2,8,8,5.375,SYNTHETIC: need clearer explanations; workload is reasonable; got quick support; course needs better structure
+449,5,7,8,9,3,2,7,10,6.375,SYNTHETIC: teaching is clear and concise; workload feels heavy; slow response to queries; unclear weekly plan; slides are helpful
+463,7,8,7,8,1,4,4,1,5.0,SYNTHETIC: teaching is clear and concise; assignments are too hard; need more support for doubts; unclear weekly plan; presentations add value
+41,5,3,5,9,3,1,8,8,5.25,SYNTHETIC: struggled to follow some topics; tasks felt challenging; hard to get help when needed; unclear weekly plan
+838,6,3,6,8,7,1,8,8,5.875,SYNTHETIC: concepts feel confusing; workload feels heavy; doubt solving is helpful; course needs better structure
+703,10,7,8,3,4,7,9,8,7.0,SYNTHETIC: explanations are easy to follow; assignments are manageable; need more support for doubts; presentations add value
+490,9,2,6,10,9,8,2,4,6.25,SYNTHETIC: struggled to follow some topics; assignments are too hard; got quick support
+906,7,7,8,4,5,2,4,5,5.25,SYNTHETIC: explanations are easy to follow; course needs better structure; slides are helpful
+174,7,3,6,7,10,10,2,3,6.0,SYNTHETIC: struggled to follow some topics; assignments are too hard; doubt solving is helpful
+4,5,8,5,7,10,7,3,1,5.75,SYNTHETIC: explanations are easy to follow; assignments are too hard; mentor support is good
+161,6,7,8,3,5,10,6,4,6.125,SYNTHETIC: concepts are clear; workload is reasonable; presentations add value
+31,5,4,5,9,9,2,4,1,4.875,SYNTHETIC: need clearer explanations; workload feels heavy; got quick support; unclear weekly plan
+623,6,4,6,6,10,10,3,9,6.75,SYNTHETIC: concepts feel confusing; doubt solving is helpful
+818,10,5,4,9,2,6,2,6,5.5,SYNTHETIC: assignments are too hard; need more support for doubts; presentations are text-heavy
+60,5,6,5,3,1,7,5,3,4.375,SYNTHETIC: tasks are fair; need more support for doubts
+384,6,2,7,9,4,4,2,8,5.25,SYNTHETIC: struggled to follow some topics; assignments are too hard; need more support for doubts; unclear weekly plan; presentations add value
+971,7,6,7,4,6,6,7,9,6.5,SYNTHETIC: presentations add value
+427,7,3,7,2,9,8,8,7,6.375,SYNTHETIC: struggled to follow some topics; workload is reasonable; doubt solving is helpful; slides are helpful
+431,10,9,4,3,3,9,4,1,5.375,SYNTHETIC: concepts are clear; tasks are fair; slow response to queries; slides could be improved
+408,6,5,4,7,1,8,6,7,5.5,SYNTHETIC: tasks felt challenging; slow response to queries; presentations are text-heavy
+577,10,7,4,10,7,2,5,1,5.75,SYNTHETIC: teaching is clear and concise; workload feels heavy; doubt solving is helpful; unclear weekly plan; slides could be improved
+803,6,10,8,5,6,5,6,7,6.625,SYNTHETIC: teaching is clear and concise; presentations add value
+273,9,3,7,1,5,3,8,4,5.0,SYNTHETIC: struggled to follow some topics; assignments are manageable; course needs better structure; presentations add value
+371,6,3,4,9,4,10,4,10,6.25,SYNTHETIC: concepts feel confusing; tasks felt challenging; need more support for doubts; presentations are text-heavy
+999,6,7,8,8,9,9,9,5,7.625,SYNTHETIC: explanations are easy to follow; tasks felt challenging; got quick support; slides are helpful
+595,10,5,5,4,10,4,4,4,5.75,SYNTHETIC: got quick support; course needs better structure
+63,8,8,7,4,4,4,8,2,5.625,SYNTHETIC: concepts are clear; slow response to queries; course needs better structure; presentations add value
+899,5,4,7,7,2,6,1,1,4.125,SYNTHETIC: need clearer explanations; assignments are too hard; need more support for doubts; presentations add value
+0,7,4,8,2,1,4,8,3,4.625,SYNTHETIC: struggled to follow some topics; tasks are fair; need more support for doubts; course needs better structure; slides are helpful
+796,7,9,6,2,7,7,6,8,6.5,SYNTHETIC: explanations are easy to follow; assignments are manageable; doubt solving is helpful
+181,10,10,4,2,1,5,3,1,4.5,SYNTHETIC: teaching is clear and concise; workload is reasonable; hard to get help when needed; presentations are text-heavy
+290,6,7,6,4,2,8,9,7,6.125,SYNTHETIC: explanations are easy to follow; slow response to queries
+373,6,4,8,10,5,3,10,10,7.0,SYNTHETIC: concepts feel confusing; tasks felt challenging; unclear weekly plan; slides are helpful
+285,6,10,5,7,3,3,5,1,5.0,SYNTHETIC: explanations are easy to follow; assignments are too hard; need more support for doubts; course needs better structure
+882,6,3,4,1,7,5,4,2,4.0,SYNTHETIC: concepts feel confusing; assignments are manageable; got quick support; slides could be improved
+776,8,3,7,6,3,7,6,7,5.875,SYNTHETIC: need clearer explanations; hard to get help when needed; slides are helpful
+935,10,9,7,2,8,2,1,2,5.125,SYNTHETIC: teaching is clear and concise; tasks are fair; doubt solving is helpful; course needs better structure; slides are helpful
+679,10,6,4,5,10,9,6,7,7.125,SYNTHETIC: doubt solving is helpful; presentations are text-heavy
+102,7,4,6,3,5,7,5,5,5.25,SYNTHETIC: need clearer explanations; assignments are manageable
+618,5,8,6,9,3,8,7,9,6.875,SYNTHETIC: teaching is clear and concise; assignments are too hard; need more support for doubts
+607,8,4,4,10,10,8,3,7,6.75,SYNTHETIC: struggled to follow some topics; tasks felt challenging; got quick support; presentations are text-heavy
+743,9,7,7,10,1,5,5,10,6.75,SYNTHETIC: teaching is clear and concise; workload feels heavy; hard to get help when needed; slides are helpful
+682,8,5,8,9,2,10,3,4,6.125,SYNTHETIC: workload feels heavy; slow response to queries; presentations add value
+16,5,3,6,6,5,8,8,2,5.375,SYNTHETIC: concepts feel confusing
+969,8,6,8,10,2,1,3,2,5.0,SYNTHETIC: assignments are too hard; need more support for doubts; course needs better structure; slides are helpful
+46,8,4,4,9,5,7,4,8,6.125,SYNTHETIC: need clearer explanations; assignments are too hard; presentations are text-heavy
+706,6,8,7,9,8,6,4,1,6.125,SYNTHETIC: explanations are easy to follow; assignments are too hard; mentor support is good; presentations add value
+993,9,9,4,1,5,2,9,9,6.0,SYNTHETIC: teaching is clear and concise; workload is reasonable; unclear weekly plan; slides could be improved
+508,10,6,5,8,8,5,7,10,7.375,SYNTHETIC: assignments are too hard; doubt solving is helpful
+989,8,4,5,4,8,6,7,3,5.625,SYNTHETIC: concepts feel confusing; got quick support
+133,10,4,7,3,5,4,4,5,5.25,SYNTHETIC: struggled to follow some topics; assignments are manageable; course needs better structure; slides are helpful
+15,8,9,8,3,6,10,2,3,6.125,SYNTHETIC: concepts are clear; assignments are manageable; slides are helpful
+78,10,9,6,8,10,7,7,8,8.125,SYNTHETIC: concepts are clear; assignments are too hard; doubt solving is helpful
+433,6,6,8,4,8,9,4,1,5.75,SYNTHETIC: got quick support; presentations add value
+784,7,7,4,3,7,8,6,10,6.5,SYNTHETIC: teaching is clear and concise; tasks are fair; got quick support; presentations are text-heavy
+983,5,2,4,1,9,4,3,2,3.75,SYNTHETIC: struggled to follow some topics; assignments are manageable; mentor support is good; course needs better structure; presentations are text-heavy
+197,9,3,5,9,8,2,4,10,6.25,SYNTHETIC: concepts feel confusing; tasks felt challenging; mentor support is good; course needs better structure
+483,8,2,6,2,10,2,2,5,4.625,SYNTHETIC: need clearer explanations; workload is reasonable; mentor support is good; course needs better structure
+376,5,5,5,8,8,4,6,10,6.375,SYNTHETIC: workload feels heavy; mentor support is good; course needs better structure
+915,10,7,4,6,9,4,9,5,6.75,SYNTHETIC: explanations are easy to follow; got quick support; unclear weekly plan; slides could be improved
+210,6,5,7,9,5,1,2,4,4.875,SYNTHETIC: assignments are too hard; unclear weekly plan; slides are helpful
+20,8,4,5,1,10,10,7,5,6.25,SYNTHETIC: need clearer explanations; assignments are manageable; got quick support
+425,5,9,8,1,10,8,10,10,7.625,SYNTHETIC: teaching is clear and concise; assignments are manageable; doubt solving is helpful; slides are helpful
+668,6,3,6,1,2,10,9,3,5.0,SYNTHETIC: struggled to follow some topics; workload is reasonable; need more support for doubts
+54,7,2,5,1,5,3,1,3,3.375,SYNTHETIC: struggled to follow some topics; workload is reasonable; course needs better structure
+950,7,2,7,10,5,3,4,7,5.625,SYNTHETIC: need clearer explanations; tasks felt challenging; unclear weekly plan; slides are helpful
+782,6,7,4,2,2,1,3,8,4.125,SYNTHETIC: explanations are easy to follow; tasks are fair; hard to get help when needed; unclear weekly plan; slides could be improved
+108,5,5,7,5,10,7,3,9,6.375,SYNTHETIC: doubt solving is helpful; presentations add value
+400,9,4,5,5,8,10,6,10,7.125,SYNTHETIC: need clearer explanations; mentor support is good
+685,10,9,7,3,1,6,6,4,5.75,SYNTHETIC: concepts are clear; workload is reasonable; need more support for doubts; presentations add value
+673,9,3,4,4,7,9,8,4,6.0,SYNTHETIC: need clearer explanations; doubt solving is helpful; presentations are text-heavy
+198,6,7,7,7,3,5,4,3,5.25,SYNTHETIC: explanations are easy to follow; tasks felt challenging; slow response to queries; presentations add value
+14,5,5,8,9,7,5,2,1,5.25,SYNTHETIC: workload feels heavy; mentor support is good; slides are helpful
+172,6,5,8,3,4,3,10,3,5.25,SYNTHETIC: tasks are fair; hard to get help when needed; unclear weekly plan; slides are helpful
+359,5,6,7,6,9,5,1,5,5.5,SYNTHETIC: mentor support is good; slides are helpful
+714,10,5,5,5,7,5,7,9,6.625,SYNTHETIC: mentor support is good
+785,7,6,7,1,7,5,5,9,5.875,SYNTHETIC: assignments are manageable; got quick support; slides are helpful
+865,8,4,6,2,7,5,2,7,5.125,SYNTHETIC: struggled to follow some topics; tasks are fair; mentor support is good
+662,10,6,4,5,1,9,6,3,5.5,SYNTHETIC: slow response to queries; slides could be improved
+513,9,10,7,7,9,2,10,1,6.875,SYNTHETIC: explanations are easy to follow; workload feels heavy; got quick support; unclear weekly plan; slides are helpful
+722,7,10,5,5,4,9,6,7,6.625,SYNTHETIC: concepts are clear; hard to get help when needed
+8,6,7,6,10,6,9,9,10,7.875,SYNTHETIC: concepts are clear; assignments are too hard
+873,10,10,4,5,9,10,2,5,6.875,SYNTHETIC: teaching is clear and concise; mentor support is good; slides could be improved
+684,10,3,7,4,4,5,1,10,5.5,SYNTHETIC: concepts feel confusing; need more support for doubts; slides are helpful
+73,7,2,5,6,3,1,1,4,3.625,SYNTHETIC: need clearer explanations; hard to get help when needed; unclear weekly plan
+900,9,8,5,8,4,6,9,7,7.0,SYNTHETIC: explanations are easy to follow; tasks felt challenging; hard to get help when needed
+933,6,9,4,8,7,10,3,5,6.5,SYNTHETIC: teaching is clear and concise; assignments are too hard; got quick support; presentations are text-heavy
+634,6,7,6,6,1,6,3,8,5.375,SYNTHETIC: concepts are clear; need more support for doubts
+835,8,2,7,8,3,4,3,4,4.875,SYNTHETIC: struggled to follow some topics; assignments are too hard; hard to get help when needed; unclear weekly plan; presentations add value
+422,9,8,4,4,8,3,4,10,6.25,SYNTHETIC: teaching is clear and concise; doubt solving is helpful; course needs better structure; slides could be improved
+235,6,2,8,8,6,3,3,1,4.625,SYNTHETIC: struggled to follow some topics; assignments are too hard; unclear weekly plan; presentations add value
+286,10,3,7,10,8,8,4,9,7.375,SYNTHETIC: need clearer explanations; tasks felt challenging; got quick support; slides are helpful
+129,7,3,4,9,1,4,4,9,5.125,SYNTHETIC: struggled to follow some topics; assignments are too hard; need more support for doubts; unclear weekly plan; presentations are text-heavy
+443,7,9,8,2,4,5,1,5,5.125,SYNTHETIC: explanations are easy to follow; tasks are fair; hard to get help when needed; presentations add value
+301,10,7,7,4,3,4,9,2,5.75,SYNTHETIC: explanations are easy to follow; need more support for doubts; course needs better structure; slides are helpful
+532,10,2,4,2,2,6,10,9,5.625,SYNTHETIC: concepts feel confusing; tasks are fair; hard to get help when needed; presentations are text-heavy
+64,6,2,8,1,8,4,8,4,5.125,SYNTHETIC: need clearer explanations; tasks are fair; mentor support is good; course needs better structure; presentations add value
+860,10,8,4,3,7,1,4,5,5.25,SYNTHETIC: concepts are clear; workload is reasonable; mentor support is good; unclear weekly plan; presentations are text-heavy
+559,8,4,4,6,5,5,1,7,5.0,SYNTHETIC: struggled to follow some topics; slides could be improved
+311,7,5,6,8,4,9,8,9,7.0,SYNTHETIC: workload feels heavy; slow response to queries
+32,9,3,7,7,6,1,9,2,5.5,SYNTHETIC: struggled to follow some topics; assignments are too hard; unclear weekly plan; presentations add value
+296,10,7,4,2,2,10,10,8,6.625,SYNTHETIC: concepts are clear; workload is reasonable; need more support for doubts; presentations are text-heavy
+419,10,2,5,8,5,3,3,10,5.75,SYNTHETIC: struggled to follow some topics; workload feels heavy; unclear weekly plan
+83,10,6,6,1,8,1,3,9,5.5,SYNTHETIC: assignments are manageable; doubt solving is helpful; unclear weekly plan
+594,7,2,7,6,7,2,3,6,5.0,SYNTHETIC: struggled to follow some topics; doubt solving is helpful; course needs better structure; presentations add value
+501,5,2,8,4,7,6,10,4,5.75,SYNTHETIC: concepts feel confusing; got quick support; presentations add value
+411,8,4,4,4,8,4,3,1,4.5,SYNTHETIC: need clearer explanations; got quick support; course needs better structure; slides could be improved
+824,10,7,7,9,4,9,9,8,7.875,SYNTHETIC: explanations are easy to follow; tasks felt challenging; need more support for doubts; slides are helpful
+585,7,6,8,2,4,7,10,9,6.625,SYNTHETIC: assignments are manageable; slow response to queries; slides are helpful
+848,9,9,6,1,9,2,8,6,6.25,SYNTHETIC: teaching is clear and concise; workload is reasonable; mentor support is good; unclear weekly plan
+299,10,8,5,5,4,3,1,9,5.625,SYNTHETIC: concepts are clear; need more support for doubts; unclear weekly plan
+107,9,4,8,6,10,4,5,9,6.875,SYNTHETIC: concepts feel confusing; got quick support; unclear weekly plan; slides are helpful
+119,9,10,5,1,9,6,7,6,6.625,SYNTHETIC: explanations are easy to follow; workload is reasonable; doubt solving is helpful
+335,5,3,4,2,8,4,7,6,4.875,SYNTHETIC: need clearer explanations; workload is reasonable; doubt solving is helpful; unclear weekly plan; slides could be improved
+557,5,5,8,2,4,10,6,1,5.125,SYNTHETIC: assignments are manageable; need more support for doubts; slides are helpful
+113,5,6,7,1,10,6,4,7,5.75,SYNTHETIC: workload is reasonable; doubt solving is helpful; slides are helpful
+281,5,6,6,3,4,1,1,1,3.375,SYNTHETIC: workload is reasonable; slow response to queries; course needs better structure
+836,9,3,4,6,6,3,2,7,5.0,SYNTHETIC: need clearer explanations; unclear weekly plan; slides could be improved
+426,9,8,7,8,10,6,9,8,8.125,SYNTHETIC: explanations are easy to follow; workload feels heavy; got quick support; presentations add value
+42,8,2,4,6,6,7,3,1,4.625,SYNTHETIC: struggled to follow some topics; presentations are text-heavy
+567,9,3,8,1,4,9,10,9,6.625,SYNTHETIC: need clearer explanations; tasks are fair; need more support for doubts; presentations add value
+589,5,8,7,5,6,7,8,9,6.875,SYNTHETIC: teaching is clear and concise; slides are helpful
+187,5,5,6,2,6,1,8,5,4.75,SYNTHETIC: tasks are fair; course needs better structure
+615,5,6,7,9,1,1,1,5,4.375,SYNTHETIC: workload feels heavy; need more support for doubts; unclear weekly plan; slides are helpful
+556,9,9,5,5,1,3,6,10,6.0,SYNTHETIC: teaching is clear and concise; hard to get help when needed; unclear weekly plan
+3,9,6,5,9,10,5,5,4,6.625,SYNTHETIC: assignments are too hard; got quick support
+667,9,9,6,2,1,3,10,2,5.25,SYNTHETIC: explanations are easy to follow; workload is reasonable; slow response to queries; course needs better structure
+234,7,2,4,5,1,8,7,2,4.5,SYNTHETIC: struggled to follow some topics; hard to get help when needed; slides could be improved
+96,6,6,5,10,8,10,5,2,6.5,SYNTHETIC: tasks felt challenging; got quick support
+691,7,7,8,8,5,4,8,2,6.125,SYNTHETIC: explanations are easy to follow; workload feels heavy; unclear weekly plan; slides are helpful
+269,9,10,6,10,10,1,9,10,8.125,SYNTHETIC: teaching is clear and concise; tasks felt challenging; doubt solving is helpful; unclear weekly plan
+566,8,10,6,10,7,6,6,1,6.75,SYNTHETIC: explanations are easy to follow; workload feels heavy; mentor support is good
+985,5,5,4,8,7,6,7,3,5.625,SYNTHETIC: workload feels heavy; got quick support; presentations are text-heavy
+437,7,2,6,7,5,8,1,8,5.5,SYNTHETIC: struggled to follow some topics; assignments are too hard
+200,8,4,8,6,8,4,7,1,5.75,SYNTHETIC: concepts feel confusing; doubt solving is helpful; course needs better structure; presentations add value
+291,10,3,7,8,2,10,3,3,5.75,SYNTHETIC: struggled to follow some topics; tasks felt challenging; slow response to queries; presentations add value
+612,8,9,8,7,1,2,8,4,5.875,SYNTHETIC: concepts are clear; assignments are too hard; hard to get help when needed; course needs better structure; slides are helpful
+448,6,7,7,9,2,9,2,5,5.875,SYNTHETIC: teaching is clear and concise; workload feels heavy; slow response to queries; presentations add value
+439,6,8,7,7,7,4,5,4,6.0,SYNTHETIC: teaching is clear and concise; workload feels heavy; doubt solving is helpful; unclear weekly plan; presentations add value
+573,5,5,5,8,8,9,8,2,6.25,SYNTHETIC: assignments are too hard; mentor support is good
+7,5,8,5,6,2,10,4,8,6.0,SYNTHETIC: teaching is clear and concise; slow response to queries
+725,5,10,8,4,3,5,1,6,5.25,SYNTHETIC: teaching is clear and concise; hard to get help when needed; slides are helpful
+50,9,8,6,7,1,6,7,4,6.0,SYNTHETIC: concepts are clear; workload feels heavy; hard to get help when needed
+423,7,9,5,10,10,7,7,3,7.25,SYNTHETIC: teaching is clear and concise; assignments are too hard; mentor support is good
+140,7,10,6,8,6,10,9,6,7.75,SYNTHETIC: concepts are clear; workload feels heavy
+135,8,9,7,3,6,10,2,9,6.75,SYNTHETIC: concepts are clear; tasks are fair; presentations add value
+786,5,4,7,5,5,6,7,1,5.0,SYNTHETIC: concepts feel confusing; presentations add value
+601,8,9,4,5,4,3,1,10,5.5,SYNTHETIC: concepts are clear; slow response to queries; unclear weekly plan; presentations are text-heavy
+493,9,4,4,9,4,3,6,7,5.75,SYNTHETIC: need clearer explanations; assignments are too hard; hard to get help when needed; unclear weekly plan; slides could be improved
+553,7,2,4,7,3,5,1,3,4.0,SYNTHETIC: need clearer explanations; assignments are too hard; slow response to queries; presentations are text-heavy
+27,7,3,5,5,5,1,8,6,5.0,SYNTHETIC: need clearer explanations; course needs better structure
+257,8,5,6,4,4,1,5,4,4.625,SYNTHETIC: slow response to queries; unclear weekly plan
+225,10,4,5,9,3,6,9,4,6.25,SYNTHETIC: need clearer explanations; tasks felt challenging; slow response to queries
+788,6,5,6,3,10,4,3,8,5.625,SYNTHETIC: tasks are fair; mentor support is good; unclear weekly plan
+37,8,9,5,3,4,3,5,2,4.875,SYNTHETIC: explanations are easy to follow; assignments are manageable; hard to get help when needed; course needs better structure
+170,5,10,7,2,8,5,9,5,6.375,SYNTHETIC: explanations are easy to follow; assignments are manageable; mentor support is good; slides are helpful
+528,9,2,5,2,6,5,1,6,4.5,SYNTHETIC: struggled to follow some topics; workload is reasonable
+600,7,8,6,10,6,7,7,6,7.125,SYNTHETIC: explanations are easy to follow; tasks felt challenging
+655,7,8,5,4,1,6,6,8,5.625,SYNTHETIC: explanations are easy to follow; slow response to queries
+74,8,8,6,1,2,5,2,6,4.75,SYNTHETIC: explanations are easy to follow; workload is reasonable; hard to get help when needed
+505,9,6,8,5,8,4,7,6,6.625,SYNTHETIC: doubt solving is helpful; course needs better structure; presentations add value
+377,5,5,7,3,9,6,1,4,5.0,SYNTHETIC: assignments are manageable; doubt solving is helpful; presentations add value
+808,8,6,4,5,1,8,8,3,5.375,SYNTHETIC: slow response to queries; presentations are text-heavy
+366,9,9,8,2,1,10,5,2,5.75,SYNTHETIC: concepts are clear; tasks are fair; slow response to queries; presentations add value
+238,8,7,5,10,10,9,7,10,8.25,SYNTHETIC: teaching is clear and concise; assignments are too hard; got quick support
+255,9,10,7,10,3,2,7,8,7.0,SYNTHETIC: teaching is clear and concise; workload feels heavy; need more support for doubts; course needs better structure; slides are helpful
+123,10,2,4,5,9,8,3,5,5.75,SYNTHETIC: concepts feel confusing; got quick support; slides could be improved
+663,6,2,8,2,5,7,5,7,5.25,SYNTHETIC: concepts feel confusing; assignments are manageable; slides are helpful
+876,6,7,4,4,9,2,5,9,5.75,SYNTHETIC: concepts are clear; doubt solving is helpful; course needs better structure; slides could be improved
+690,5,10,8,4,2,7,9,6,6.375,SYNTHETIC: teaching is clear and concise; hard to get help when needed; presentations add value
+309,5,8,4,9,2,1,4,5,4.75,SYNTHETIC: teaching is clear and concise; workload feels heavy; slow response to queries; unclear weekly plan; presentations are text-heavy
+693,7,9,8,1,5,10,3,7,6.25,SYNTHETIC: concepts are clear; workload is reasonable; presentations add value
+226,7,6,8,8,8,5,8,8,7.25,SYNTHETIC: workload feels heavy; doubt solving is helpful; slides are helpful
+951,10,10,7,10,5,9,7,1,7.375,SYNTHETIC: concepts are clear; tasks felt challenging; presentations add value
+260,9,3,7,4,7,2,8,3,5.375,SYNTHETIC: concepts feel confusing; doubt solving is helpful; unclear weekly plan; presentations add value
+243,9,8,8,8,4,10,8,9,8.0,SYNTHETIC: concepts are clear; tasks felt challenging; need more support for doubts; slides are helpful
+222,5,4,4,2,7,9,5,3,4.875,SYNTHETIC: concepts feel confusing; assignments are manageable; doubt solving is helpful; slides could be improved
+314,5,10,6,8,6,6,10,4,6.875,SYNTHETIC: teaching is clear and concise; tasks felt challenging
+229,7,6,8,2,2,10,8,8,6.375,SYNTHETIC: workload is reasonable; hard to get help when needed; slides are helpful
+85,5,6,8,9,3,4,4,4,5.375,SYNTHETIC: workload feels heavy; slow response to queries; unclear weekly plan; slides are helpful
+76,8,9,8,6,3,10,7,2,6.625,SYNTHETIC: teaching is clear and concise; need more support for doubts; presentations add value
+887,6,9,5,8,9,7,6,2,6.5,SYNTHETIC: explanations are easy to follow; assignments are too hard; doubt solving is helpful
+582,8,4,7,8,1,5,9,3,5.625,SYNTHETIC: struggled to follow some topics; tasks felt challenging; slow response to queries; slides are helpful
+674,8,5,6,8,7,10,2,7,6.625,SYNTHETIC: assignments are too hard; mentor support is good
+986,7,2,6,2,4,7,10,7,5.625,SYNTHETIC: concepts feel confusing; assignments are manageable; need more support for doubts
+511,8,4,4,5,2,10,10,6,6.125,SYNTHETIC: struggled to follow some topics; slow response to queries; presentations are text-heavy
+879,6,10,5,10,9,5,5,4,6.75,SYNTHETIC: explanations are easy to follow; assignments are too hard; got quick support
+401,8,10,7,2,8,10,8,9,7.75,SYNTHETIC: teaching is clear and concise; tasks are fair; got quick support; presentations add value
+514,6,6,7,10,7,7,6,3,6.5,SYNTHETIC: assignments are too hard; got quick support; slides are helpful
+750,10,3,8,1,5,1,3,5,4.5,SYNTHETIC: concepts feel confusing; tasks are fair; course needs better structure; presentations add value
+156,7,4,7,9,10,8,5,8,7.25,SYNTHETIC: struggled to follow some topics; tasks felt challenging; got quick support; slides are helpful
+775,5,6,7,2,5,4,1,4,4.25,SYNTHETIC: workload is reasonable; unclear weekly plan; slides are helpful
+329,9,8,8,5,3,3,10,8,6.75,SYNTHETIC: explanations are easy to follow; need more support for doubts; unclear weekly plan; presentations add value
+467,8,10,5,7,7,1,3,6,5.875,SYNTHETIC: explanations are easy to follow; workload feels heavy; mentor support is good; unclear weekly plan
+178,7,7,4,7,1,2,1,2,3.875,SYNTHETIC: explanations are easy to follow; assignments are too hard; need more support for doubts; course needs better structure; presentations are text-heavy
+549,5,3,7,6,8,8,5,5,5.875,SYNTHETIC: concepts feel confusing; got quick support; slides are helpful
+453,8,4,4,4,2,8,1,4,4.375,SYNTHETIC: struggled to follow some topics; slow response to queries; slides could be improved
+307,6,9,5,1,6,5,3,5,5.0,SYNTHETIC: explanations are easy to follow; assignments are manageable
+472,6,8,7,7,9,9,2,3,6.375,SYNTHETIC: teaching is clear and concise; tasks felt challenging; got quick support; slides are helpful
+392,7,7,4,9,7,10,8,4,7.0,SYNTHETIC: explanations are easy to follow; workload feels heavy; got quick support; presentations are text-heavy
+65,6,4,4,6,3,10,8,3,5.5,SYNTHETIC: concepts feel confusing; slow response to queries; presentations are text-heavy
+575,9,4,7,7,1,1,5,1,4.375,SYNTHETIC: struggled to follow some topics; assignments are too hard; hard to get help when needed; unclear weekly plan; slides are helpful
+855,8,3,6,4,1,1,9,7,4.875,SYNTHETIC: need clearer explanations; need more support for doubts; course needs better structure
+791,5,9,4,4,1,4,10,9,5.75,SYNTHETIC: teaching is clear and concise; hard to get help when needed; unclear weekly plan; presentations are text-heavy
+391,5,3,7,6,7,6,9,4,5.875,SYNTHETIC: concepts feel confusing; doubt solving is helpful; slides are helpful
+973,6,3,4,6,4,6,6,9,5.5,SYNTHETIC: need clearer explanations; slow response to queries; presentations are text-heavy
+828,8,3,5,2,9,5,6,3,5.125,SYNTHETIC: need clearer explanations; workload is reasonable; got quick support
+247,6,9,6,5,2,2,3,7,5.0,SYNTHETIC: teaching is clear and concise; need more support for doubts; course needs better structure
+412,9,2,5,8,7,2,10,4,5.875,SYNTHETIC: concepts feel confusing; assignments are too hard; doubt solving is helpful; course needs better structure
+67,7,9,4,3,9,1,1,2,4.5,SYNTHETIC: concepts are clear; assignments are manageable; mentor support is good; course needs better structure; slides could be improved
+289,5,2,5,8,9,2,7,2,5.0,SYNTHETIC: need clearer explanations; assignments are too hard; got quick support; unclear weekly plan
+399,10,6,4,8,6,5,10,4,6.625,SYNTHETIC: workload feels heavy; slides could be improved
+138,8,5,8,8,10,4,2,6,6.375,SYNTHETIC: workload feels heavy; got quick support; unclear weekly plan; slides are helpful
+537,10,6,4,9,9,5,7,5,6.875,SYNTHETIC: assignments are too hard; mentor support is good; slides could be improved
+265,5,9,7,6,5,6,5,3,5.75,SYNTHETIC: concepts are clear; slides are helpful
+724,5,2,6,1,7,3,3,1,3.5,SYNTHETIC: concepts feel confusing; workload is reasonable; got quick support; course needs better structure
+653,5,6,5,6,6,3,9,2,5.25,SYNTHETIC: course needs better structure
+318,6,8,5,10,6,7,10,8,7.5,SYNTHETIC: concepts are clear; tasks felt challenging
+232,6,8,5,5,1,1,7,8,5.125,SYNTHETIC: concepts are clear; slow response to queries; course needs better structure
+21,9,7,5,3,6,6,1,6,5.375,SYNTHETIC: teaching is clear and concise; assignments are manageable
+998,9,7,5,1,2,2,1,10,4.625,SYNTHETIC: teaching is clear and concise; assignments are manageable; need more support for doubts; course needs better structure
+694,9,8,8,10,7,7,7,2,7.25,SYNTHETIC: concepts are clear; assignments are too hard; mentor support is good; presentations add value
+927,6,2,6,2,10,3,6,4,4.875,SYNTHETIC: need clearer explanations; workload is reasonable; mentor support is good; course needs better structure
+348,7,9,5,6,5,5,8,6,6.375,SYNTHETIC: explanations are easy to follow
+968,6,7,6,3,8,1,9,3,5.375,SYNTHETIC: explanations are easy to follow; workload is reasonable; got quick support; unclear weekly plan
+992,10,6,4,3,8,6,10,3,6.25,SYNTHETIC: assignments are manageable; mentor support is good; slides could be improved
+764,9,3,7,6,3,8,10,2,6.0,SYNTHETIC: need clearer explanations; slow response to queries; presentations add value
+587,5,4,8,2,2,2,4,10,4.625,SYNTHETIC: concepts feel confusing; assignments are manageable; slow response to queries; course needs better structure; presentations add value
+944,10,8,6,8,8,7,9,6,7.75,SYNTHETIC: concepts are clear; workload feels heavy; doubt solving is helpful
+239,5,10,4,3,2,7,4,4,4.875,SYNTHETIC: teaching is clear and concise; tasks are fair; hard to get help when needed; presentations are text-heavy
+886,7,7,5,5,10,1,9,9,6.625,SYNTHETIC: teaching is clear and concise; got quick support; unclear weekly plan
+23,9,7,4,2,1,2,9,3,4.625,SYNTHETIC: explanations are easy to follow; tasks are fair; hard to get help when needed; course needs better structure; slides could be improved
+458,6,2,4,6,6,10,4,1,4.875,SYNTHETIC: struggled to follow some topics; slides could be improved
+822,6,2,7,1,5,4,1,10,4.5,SYNTHETIC: struggled to follow some topics; tasks are fair; course needs better structure; presentations add value
+413,7,10,4,2,3,1,10,1,4.75,SYNTHETIC: teaching is clear and concise; assignments are manageable; hard to get help when needed; course needs better structure; slides could be improved
+563,7,4,8,8,7,3,3,10,6.25,SYNTHETIC: concepts feel confusing; assignments are too hard; got quick support; course needs better structure; presentations add value
+331,8,8,7,5,10,4,7,5,6.75,SYNTHETIC: explanations are easy to follow; doubt solving is helpful; unclear weekly plan; presentations add value
+434,7,7,7,6,1,8,9,6,6.375,SYNTHETIC: concepts are clear; slow response to queries; slides are helpful
+456,10,4,8,6,5,1,10,1,5.625,SYNTHETIC: concepts feel confusing; course needs better structure; presentations add value
+430,9,6,4,9,8,6,4,3,6.125,SYNTHETIC: tasks felt challenging; got quick support; presentations are text-heavy
+896,6,8,7,5,4,4,5,5,5.5,SYNTHETIC: explanations are easy to follow; slow response to queries; unclear weekly plan; slides are helpful
+451,9,3,6,10,7,8,9,10,7.75,SYNTHETIC: concepts feel confusing; workload feels heavy; doubt solving is helpful
+477,5,2,5,6,10,6,10,8,6.5,SYNTHETIC: need clearer explanations; mentor support is good
+9,7,5,4,5,1,3,5,6,4.5,SYNTHETIC: hard to get help when needed; course needs better structure; presentations are text-heavy
+325,7,5,7,6,1,5,8,6,5.625,SYNTHETIC: slow response to queries; slides are helpful
+812,9,5,4,4,2,4,2,6,4.5,SYNTHETIC: need more support for doubts; course needs better structure; slides could be improved
+727,7,2,6,4,2,10,9,5,5.625,SYNTHETIC: struggled to follow some topics; need more support for doubts
+928,6,7,6,9,4,8,5,8,6.625,SYNTHETIC: explanations are easy to follow; assignments are too hard; slow response to queries
+134,9,9,7,4,7,10,8,3,7.125,SYNTHETIC: explanations are easy to follow; mentor support is good; presentations add value
+819,6,7,8,8,9,10,2,2,6.5,SYNTHETIC: concepts are clear; assignments are too hard; got quick support; slides are helpful
+230,7,2,8,2,6,1,9,2,4.625,SYNTHETIC: struggled to follow some topics; assignments are manageable; course needs better structure; presentations add value
+520,9,3,5,6,7,10,10,3,6.625,SYNTHETIC: need clearer explanations; doubt solving is helpful
+326,7,10,8,8,6,4,9,7,7.375,SYNTHETIC: explanations are easy to follow; assignments are too hard; unclear weekly plan; slides are helpful
+142,6,8,4,10,8,5,8,6,6.875,SYNTHETIC: teaching is clear and concise; workload feels heavy; got quick support; slides could be improved
+491,5,4,8,6,1,3,4,4,4.375,SYNTHETIC: concepts feel confusing; slow response to queries; unclear weekly plan; presentations add value
+379,7,5,6,2,9,7,3,10,6.125,SYNTHETIC: assignments are manageable; got quick support
+465,5,2,8,8,6,8,2,4,5.375,SYNTHETIC: struggled to follow some topics; assignments are too hard; presentations add value
+756,6,7,7,3,2,6,9,7,5.875,SYNTHETIC: explanations are easy to follow; tasks are fair; hard to get help when needed; presentations add value
+347,6,8,7,3,5,1,2,8,5.0,SYNTHETIC: concepts are clear; workload is reasonable; course needs better structure; presentations add value
+237,10,4,5,8,7,8,2,8,6.5,SYNTHETIC: need clearer explanations; assignments are too hard; mentor support is good
+642,5,7,6,8,9,6,6,7,6.75,SYNTHETIC: explanations are easy to follow; assignments are too hard; mentor support is good
+506,9,7,4,1,5,7,5,1,4.875,SYNTHETIC: concepts are clear; tasks are fair; presentations are text-heavy
+646,7,8,5,4,7,8,8,8,6.875,SYNTHETIC: explanations are easy to follow; doubt solving is helpful
+382,10,10,7,5,2,3,6,3,5.75,SYNTHETIC: teaching is clear and concise; need more support for doubts; course needs better structure; presentations add value
+256,6,7,4,5,9,8,6,5,6.25,SYNTHETIC: concepts are clear; mentor support is good; slides could be improved
+327,8,8,5,10,2,1,10,5,6.125,SYNTHETIC: teaching is clear and concise; tasks felt challenging; slow response to queries; course needs better structure
+624,7,3,7,10,2,1,8,8,5.75,SYNTHETIC: need clearer explanations; assignments are too hard; need more support for doubts; course needs better structure; presentations add value
+155,8,8,8,10,3,9,7,3,7.0,SYNTHETIC: concepts are clear; workload feels heavy; hard to get help when needed; slides are helpful
+578,8,10,7,4,5,8,7,6,6.875,SYNTHETIC: concepts are clear; presentations add value
+640,10,9,4,10,2,4,3,1,5.375,SYNTHETIC: teaching is clear and concise; workload feels heavy; slow response to queries; course needs better structure; slides could be improved
+997,9,8,8,6,8,3,3,10,6.875,SYNTHETIC: concepts are clear; doubt solving is helpful; course needs better structure; slides are helpful
+242,7,9,5,4,5,9,1,4,5.5,SYNTHETIC: explanations are easy to follow
+344,7,6,8,9,8,3,8,5,6.75,SYNTHETIC: tasks felt challenging; got quick support; unclear weekly plan; presentations add value
+699,9,5,4,8,4,2,2,8,5.25,SYNTHETIC: tasks felt challenging; need more support for doubts; unclear weekly plan; presentations are text-heavy
+77,9,4,5,9,2,1,5,10,5.625,SYNTHETIC: concepts feel confusing; assignments are too hard; hard to get help when needed; course needs better structure
+821,8,9,5,5,8,9,4,9,7.125,SYNTHETIC: concepts are clear; mentor support is good
+903,9,8,8,8,4,8,4,1,6.25,SYNTHETIC: explanations are easy to follow; assignments are too hard; hard to get help when needed; presentations add value
+540,9,10,7,3,2,4,4,5,5.5,SYNTHETIC: concepts are clear; assignments are manageable; slow response to queries; unclear weekly plan; slides are helpful
+596,5,8,7,7,1,2,10,3,5.375,SYNTHETIC: teaching is clear and concise; assignments are too hard; slow response to queries; unclear weekly plan; presentations add value
+169,8,2,6,3,3,6,9,3,5.0,SYNTHETIC: struggled to follow some topics; workload is reasonable; need more support for doubts
+526,9,5,5,5,2,6,4,9,5.625,SYNTHETIC: slow response to queries
+361,7,2,6,4,5,7,8,3,5.25,SYNTHETIC: struggled to follow some topics
+917,8,6,5,3,7,5,4,8,5.75,SYNTHETIC: workload is reasonable; got quick support
+342,5,9,8,1,9,8,7,10,7.125,SYNTHETIC: explanations are easy to follow; tasks are fair; got quick support; presentations add value
+599,5,2,4,8,4,8,9,5,5.625,SYNTHETIC: concepts feel confusing; tasks felt challenging; slow response to queries; slides could be improved
+875,5,4,7,3,5,6,4,5,4.875,SYNTHETIC: need clearer explanations; workload is reasonable; presentations add value
+745,5,9,5,10,8,2,9,1,6.125,SYNTHETIC: explanations are easy to follow; assignments are too hard; doubt solving is helpful; course needs better structure
+131,9,4,8,2,7,5,2,10,5.875,SYNTHETIC: struggled to follow some topics; tasks are fair; doubt solving is helpful; slides are helpful
+143,6,6,7,8,10,3,3,9,6.5,SYNTHETIC: workload feels heavy; got quick support; unclear weekly plan; slides are helpful
+666,10,5,6,8,1,2,7,7,5.75,SYNTHETIC: tasks felt challenging; need more support for doubts; unclear weekly plan
+104,8,5,4,2,7,9,4,4,5.375,SYNTHETIC: tasks are fair; got quick support; slides could be improved
+964,8,5,5,3,10,5,5,3,5.5,SYNTHETIC: tasks are fair; mentor support is good
+208,8,7,5,7,2,3,2,8,5.25,SYNTHETIC: explanations are easy to follow; assignments are too hard; need more support for doubts; course needs better structure
+774,7,10,5,4,6,10,9,6,7.125,SYNTHETIC: explanations are easy to follow
+346,10,7,4,9,3,2,10,8,6.625,SYNTHETIC: concepts are clear; workload feels heavy; slow response to queries; unclear weekly plan; presentations are text-heavy
+97,7,8,7,9,6,3,10,7,7.125,SYNTHETIC: teaching is clear and concise; assignments are too hard; course needs better structure; presentations add value
+306,9,10,4,1,3,3,2,5,4.625,SYNTHETIC: explanations are easy to follow; workload is reasonable; need more support for doubts; unclear weekly plan; presentations are text-heavy
+18,9,6,6,1,5,8,4,10,6.125,SYNTHETIC: assignments are manageable
+284,5,7,6,3,10,3,8,6,6.0,SYNTHETIC: teaching is clear and concise; workload is reasonable; doubt solving is helpful; unclear weekly plan
+173,5,7,5,10,10,10,3,10,7.5,SYNTHETIC: concepts are clear; assignments are too hard; got quick support
+558,7,9,5,5,9,7,3,5,6.25,SYNTHETIC: teaching is clear and concise; doubt solving is helpful
+51,7,2,6,2,8,2,10,2,4.875,SYNTHETIC: concepts feel confusing; assignments are manageable; mentor support is good; course needs better structure
+357,5,8,7,5,4,1,8,8,5.75,SYNTHETIC: explanations are easy to follow; hard to get help when needed; unclear weekly plan; presentations add value
+692,8,8,6,9,5,8,7,10,7.625,SYNTHETIC: explanations are easy to follow; tasks felt challenging
+26,8,2,6,10,9,9,4,5,6.625,SYNTHETIC: need clearer explanations; tasks felt challenging; got quick support
+386,9,5,5,4,6,5,7,7,6.0,SYNTHETIC: good learning experience
+287,5,9,5,5,10,8,4,10,7.0,SYNTHETIC: teaching is clear and concise; got quick support
+974,8,10,4,2,4,9,8,7,6.5,SYNTHETIC: concepts are clear; workload is reasonable; hard to get help when needed; slides could be improved
+683,6,9,4,8,5,5,1,10,6.0,SYNTHETIC: explanations are easy to follow; workload feels heavy; presentations are text-heavy
+374,6,9,4,6,2,6,7,8,6.0,SYNTHETIC: concepts are clear; hard to get help when needed; presentations are text-heavy
+278,10,8,7,8,6,7,8,1,6.875,SYNTHETIC: explanations are easy to follow; workload feels heavy; presentations add value
+367,10,4,8,3,3,9,5,7,6.125,SYNTHETIC: need clearer explanations; tasks are fair; hard to get help when needed; presentations add value
+800,7,4,5,2,1,6,3,9,4.625,SYNTHETIC: need clearer explanations; assignments are manageable; hard to get help when needed
+11,9,5,6,8,5,6,7,7,6.625,SYNTHETIC: assignments are too hard
+310,5,8,5,9,4,4,9,10,6.75,SYNTHETIC: teaching is clear and concise; workload feels heavy; hard to get help when needed; unclear weekly plan
+910,5,8,7,10,8,2,4,8,6.5,SYNTHETIC: teaching is clear and concise; workload feels heavy; got quick support; unclear weekly plan; presentations add value
+440,5,7,8,9,7,1,8,10,6.875,SYNTHETIC: explanations are easy to follow; assignments are too hard; got quick support; course needs better structure; slides are helpful
+441,7,8,5,3,1,8,6,8,5.75,SYNTHETIC: explanations are easy to follow; assignments are manageable; hard to get help when needed
+146,8,7,5,6,9,2,9,10,7.0,SYNTHETIC: explanations are easy to follow; doubt solving is helpful; unclear weekly plan
+614,8,2,6,7,8,6,6,5,6.0,SYNTHETIC: need clearer explanations; workload feels heavy; doubt solving is helpful
+262,10,5,4,9,6,9,9,3,6.875,SYNTHETIC: tasks felt challenging; slides could be improved
+34,9,7,8,9,8,2,8,9,7.5,SYNTHETIC: concepts are clear; workload feels heavy; doubt solving is helpful; course needs better structure; slides are helpful
+407,9,8,8,6,2,9,6,4,6.5,SYNTHETIC: explanations are easy to follow; need more support for doubts; presentations add value
+564,5,10,5,6,8,5,3,1,5.375,SYNTHETIC: concepts are clear; mentor support is good
+538,8,7,4,6,10,5,2,9,6.375,SYNTHETIC: concepts are clear; doubt solving is helpful; slides could be improved
+748,5,8,6,1,10,2,4,9,5.625,SYNTHETIC: explanations are easy to follow; workload is reasonable; doubt solving is helpful; unclear weekly plan
+675,8,7,8,9,8,6,2,8,7.0,SYNTHETIC: teaching is clear and concise; workload feels heavy; doubt solving is helpful; slides are helpful
+224,10,7,7,6,2,1,7,9,6.125,SYNTHETIC: explanations are easy to follow; slow response to queries; unclear weekly plan; slides are helpful
+10,8,3,7,4,3,6,4,1,4.5,SYNTHETIC: struggled to follow some topics; hard to get help when needed; slides are helpful
+708,5,3,5,4,5,9,6,4,5.125,SYNTHETIC: concepts feel confusing
+636,7,3,6,9,5,4,6,3,5.375,SYNTHETIC: struggled to follow some topics; workload feels heavy; unclear weekly plan
+218,7,8,4,4,1,4,6,4,4.75,SYNTHETIC: concepts are clear; slow response to queries; unclear weekly plan; slides could be improved
+193,5,9,4,6,5,7,1,9,5.75,SYNTHETIC: explanations are easy to follow; slides could be improved
+106,6,6,5,8,3,1,9,7,5.625,SYNTHETIC: tasks felt challenging; hard to get help when needed; course needs better structure
+834,8,2,7,4,1,8,9,2,5.125,SYNTHETIC: struggled to follow some topics; hard to get help when needed; slides are helpful
+597,5,4,8,4,8,7,3,4,5.375,SYNTHETIC: struggled to follow some topics; doubt solving is helpful; slides are helpful
+45,8,5,6,1,5,9,2,9,5.625,SYNTHETIC: workload is reasonable
+264,5,2,4,4,7,6,4,1,4.125,SYNTHETIC: need clearer explanations; mentor support is good; slides could be improved
+219,10,4,5,7,9,10,8,3,7.0,SYNTHETIC: concepts feel confusing; tasks felt challenging; doubt solving is helpful
+249,10,2,5,6,8,1,8,9,6.125,SYNTHETIC: concepts feel confusing; mentor support is good; unclear weekly plan
+507,9,2,6,2,7,9,7,9,6.375,SYNTHETIC: concepts feel confusing; workload is reasonable; mentor support is good
+383,10,10,8,10,4,9,3,10,8.0,SYNTHETIC: explanations are easy to follow; tasks felt challenging; need more support for doubts; presentations add value
+631,10,8,5,3,9,9,8,3,6.875,SYNTHETIC: teaching is clear and concise; workload is reasonable; doubt solving is helpful
+502,6,3,5,1,8,4,7,8,5.25,SYNTHETIC: struggled to follow some topics; tasks are fair; mentor support is good; unclear weekly plan
+792,10,2,6,7,7,5,6,9,6.5,SYNTHETIC: need clearer explanations; workload feels heavy; mentor support is good
+271,8,10,6,5,7,10,10,2,7.25,SYNTHETIC: concepts are clear; doubt solving is helpful
+194,6,3,5,4,1,10,8,3,5.0,SYNTHETIC: need clearer explanations; need more support for doubts
+937,8,8,4,10,1,5,9,3,6.0,SYNTHETIC: explanations are easy to follow; tasks felt challenging; slow response to queries; presentations are text-heavy
+726,6,4,4,7,7,3,6,4,5.125,SYNTHETIC: struggled to follow some topics; assignments are too hard; got quick support; unclear weekly plan; slides could be improved
+339,6,10,5,9,4,3,6,5,6.0,SYNTHETIC: concepts are clear; workload feels heavy; hard to get help when needed; unclear weekly plan
+841,8,9,8,3,4,4,7,1,5.5,SYNTHETIC: teaching is clear and concise; assignments are manageable; need more support for doubts; course needs better structure; slides are helpful
+874,9,7,6,9,6,1,6,3,5.875,SYNTHETIC: explanations are easy to follow; workload feels heavy; course needs better structure
+214,6,6,4,3,1,3,4,6,4.125,SYNTHETIC: assignments are manageable; need more support for doubts; unclear weekly plan; slides could be improved
+924,9,10,5,5,6,4,1,8,6.0,SYNTHETIC: concepts are clear; unclear weekly plan
+203,8,7,8,9,4,10,8,10,8.0,SYNTHETIC: concepts are clear; tasks felt challenging; need more support for doubts; presentations add value
+629,8,3,7,4,4,8,1,10,5.625,SYNTHETIC: struggled to follow some topics; hard to get help when needed; slides are helpful
+354,6,3,7,10,1,1,10,6,5.5,SYNTHETIC: struggled to follow some topics; assignments are too hard; slow response to queries; unclear weekly plan; presentations add value
+857,9,8,6,5,7,8,1,9,6.625,SYNTHETIC: explanations are easy to follow; got quick support
+424,5,3,7,3,8,6,5,7,5.5,SYNTHETIC: struggled to follow some topics; assignments are manageable; doubt solving is helpful; presentations add value
+872,6,10,8,8,2,2,1,4,5.125,SYNTHETIC: concepts are clear; workload feels heavy; slow response to queries; course needs better structure; presentations add value
+116,8,5,6,3,5,3,1,9,5.0,SYNTHETIC: assignments are manageable; course needs better structure
+308,9,10,7,10,3,2,10,9,7.5,SYNTHETIC: concepts are clear; assignments are too hard; need more support for doubts; course needs better structure; slides are helpful
+698,5,9,6,3,6,9,9,9,7.0,SYNTHETIC: explanations are easy to follow; assignments are manageable
+622,9,10,7,7,6,2,8,4,6.625,SYNTHETIC: concepts are clear; workload feels heavy; unclear weekly plan; presentations add value
+103,9,6,4,6,1,3,10,6,5.625,SYNTHETIC: need more support for doubts; unclear weekly plan; slides could be improved
+464,5,4,8,6,4,10,1,6,5.5,SYNTHETIC: struggled to follow some topics; slow response to queries; presentations add value
+870,10,4,6,3,8,2,3,7,5.375,SYNTHETIC: struggled to follow some topics; workload is reasonable; doubt solving is helpful; course needs better structure
+351,8,5,8,10,1,9,7,7,6.875,SYNTHETIC: assignments are too hard; hard to get help when needed; presentations add value
+628,10,10,4,7,1,7,3,9,6.375,SYNTHETIC: concepts are clear; tasks felt challenging; need more support for doubts; presentations are text-heavy
+33,8,5,6,1,8,7,7,2,5.5,SYNTHETIC: assignments are manageable; mentor support is good
+972,7,9,4,1,1,2,1,10,4.375,SYNTHETIC: concepts are clear; assignments are manageable; need more support for doubts; course needs better structure; slides could be improved
+535,5,10,5,9,9,8,1,9,7.0,SYNTHETIC: concepts are clear; assignments are too hard; mentor support is good
+959,8,4,5,5,10,7,3,2,5.5,SYNTHETIC: struggled to follow some topics; doubt solving is helpful
+794,10,4,4,8,6,8,6,9,6.875,SYNTHETIC: concepts feel confusing; assignments are too hard; presentations are text-heavy
+313,5,7,7,3,7,10,1,1,5.125,SYNTHETIC: explanations are easy to follow; tasks are fair; got quick support; presentations add value
+127,5,8,4,9,7,7,7,6,6.625,SYNTHETIC: teaching is clear and concise; tasks felt challenging; mentor support is good; slides could be improved
+245,10,6,4,9,9,2,7,7,6.75,SYNTHETIC: tasks felt challenging; mentor support is good; course needs better structure; presentations are text-heavy
+773,9,5,8,9,1,10,4,8,6.75,SYNTHETIC: assignments are too hard; need more support for doubts; presentations add value
+69,8,6,6,1,9,1,9,7,5.875,SYNTHETIC: workload is reasonable; got quick support; unclear weekly plan
+141,8,6,6,5,4,9,5,2,5.625,SYNTHETIC: hard to get help when needed
+139,8,3,4,10,6,1,1,5,4.75,SYNTHETIC: concepts feel confusing; tasks felt challenging; unclear weekly plan; presentations are text-heavy
+398,6,9,6,10,7,4,5,9,7.0,SYNTHETIC: concepts are clear; assignments are too hard; got quick support; course needs better structure
+889,7,6,8,6,6,6,7,10,7.0,SYNTHETIC: presentations add value
+995,6,7,8,3,7,7,8,7,6.625,SYNTHETIC: teaching is clear and concise; assignments are manageable; got quick support; presentations add value
+757,9,5,7,9,7,8,9,1,6.875,SYNTHETIC: workload feels heavy; doubt solving is helpful; slides are helpful
+783,5,2,8,2,8,5,7,3,5.0,SYNTHETIC: concepts feel confusing; workload is reasonable; mentor support is good; presentations add value
+420,5,8,8,6,2,4,10,3,5.75,SYNTHETIC: teaching is clear and concise; slow response to queries; unclear weekly plan; slides are helpful
+790,7,5,6,2,3,1,6,6,4.5,SYNTHETIC: tasks are fair; slow response to queries; unclear weekly plan
+592,7,2,7,10,8,9,5,1,6.125,SYNTHETIC: concepts feel confusing; assignments are too hard; mentor support is good; presentations add value
+978,6,5,8,9,6,6,2,9,6.375,SYNTHETIC: workload feels heavy; slides are helpful
+735,6,4,6,1,7,6,1,5,4.5,SYNTHETIC: need clearer explanations; tasks are fair; doubt solving is helpful
+731,5,10,6,9,5,10,5,2,6.5,SYNTHETIC: explanations are easy to follow; tasks felt challenging
+932,6,6,4,5,5,3,6,1,4.5,SYNTHETIC: course needs better structure; slides could be improved
+497,6,4,8,4,6,10,1,6,5.625,SYNTHETIC: struggled to follow some topics; presentations add value
+813,8,10,5,8,4,7,5,2,6.125,SYNTHETIC: explanations are easy to follow; assignments are too hard; slow response to queries
+2,10,2,7,3,10,4,4,7,5.875,SYNTHETIC: need clearer explanations; workload is reasonable; doubt solving is helpful; unclear weekly plan; presentations add value
+649,9,2,6,10,4,9,4,2,5.75,SYNTHETIC: struggled to follow some topics; workload feels heavy; need more support for doubts
+455,8,5,4,2,7,4,1,2,4.125,SYNTHETIC: assignments are manageable; mentor support is good; unclear weekly plan; presentations are text-heavy
+593,5,3,5,3,9,10,9,9,6.625,SYNTHETIC: need clearer explanations; tasks are fair; mentor support is good
+206,10,8,5,4,8,9,10,6,7.5,SYNTHETIC: concepts are clear; doubt solving is helpful
+847,7,10,5,7,1,9,10,4,6.625,SYNTHETIC: teaching is clear and concise; workload feels heavy; need more support for doubts
+233,8,7,7,7,9,2,8,2,6.25,SYNTHETIC: concepts are clear; workload feels heavy; doubt solving is helpful; unclear weekly plan; presentations add value
+87,5,10,8,4,8,10,1,9,6.875,SYNTHETIC: explanations are easy to follow; got quick support; slides are helpful
+333,6,3,7,6,9,9,9,1,6.25,SYNTHETIC: struggled to follow some topics; mentor support is good; presentations add value
+738,8,2,5,7,2,7,6,5,5.25,SYNTHETIC: need clearer explanations; workload feels heavy; hard to get help when needed
+350,5,6,6,1,8,7,10,10,6.625,SYNTHETIC: assignments are manageable; got quick support
+805,8,8,7,10,6,2,2,6,6.125,SYNTHETIC: concepts are clear; assignments are too hard; unclear weekly plan; presentations add value
+700,9,8,6,1,9,6,9,1,6.125,SYNTHETIC: concepts are clear; assignments are manageable; mentor support is good
+92,7,6,7,3,2,1,7,6,4.875,SYNTHETIC: tasks are fair; slow response to queries; course needs better structure; slides are helpful
+68,5,5,8,8,7,6,10,4,6.625,SYNTHETIC: tasks felt challenging; mentor support is good; presentations add value
+746,10,5,6,7,1,1,6,1,4.625,SYNTHETIC: assignments are too hard; slow response to queries; course needs better structure
+741,7,9,7,3,10,8,10,5,7.375,SYNTHETIC: concepts are clear; assignments are manageable; doubt solving is helpful; presentations add value
+581,9,10,8,2,5,6,7,10,7.125,SYNTHETIC: teaching is clear and concise; tasks are fair; presentations add value
+677,9,6,6,9,1,10,7,1,6.125,SYNTHETIC: tasks felt challenging; hard to get help when needed
+442,7,8,5,10,8,3,6,4,6.375,SYNTHETIC: concepts are clear; workload feels heavy; mentor support is good; unclear weekly plan
+749,9,9,5,2,9,1,10,1,5.75,SYNTHETIC: teaching is clear and concise; assignments are manageable; doubt solving is helpful; course needs better structure
+25,5,6,4,10,4,1,8,3,5.125,SYNTHETIC: workload feels heavy; slow response to queries; unclear weekly plan; presentations are text-heavy
+936,6,7,6,4,1,8,4,10,5.75,SYNTHETIC: concepts are clear; need more support for doubts
+90,9,10,6,7,8,1,2,7,6.25,SYNTHETIC: teaching is clear and concise; assignments are too hard; mentor support is good; unclear weekly plan
+715,6,9,6,5,9,1,6,6,6.0,SYNTHETIC: explanations are easy to follow; got quick support; course needs better structure
+240,9,9,7,10,5,7,1,6,6.75,SYNTHETIC: concepts are clear; workload feels heavy; slides are helpful
+13,6,6,6,3,10,7,2,1,5.125,SYNTHETIC: workload is reasonable; mentor support is good
+126,7,4,6,4,1,5,2,1,3.75,SYNTHETIC: struggled to follow some topics; hard to get help when needed
+761,5,9,6,10,10,1,10,6,7.125,SYNTHETIC: explanations are easy to follow; assignments are too hard; doubt solving is helpful; course needs better structure
+302,8,4,6,7,1,4,1,8,4.875,SYNTHETIC: need clearer explanations; workload feels heavy; slow response to queries; unclear weekly plan
+650,8,4,7,9,10,2,8,3,6.375,SYNTHETIC: need clearer explanations; assignments are too hard; got quick support; unclear weekly plan; slides are helpful
+365,10,5,5,3,5,2,3,5,4.75,SYNTHETIC: workload is reasonable; course needs better structure
+905,5,9,6,8,10,2,1,1,5.25,SYNTHETIC: concepts are clear; tasks felt challenging; mentor support is good; course needs better structure
+415,9,3,5,1,8,9,9,2,5.75,SYNTHETIC: struggled to follow some topics; workload is reasonable; mentor support is good
+397,10,7,8,6,6,6,2,6,6.375,SYNTHETIC: concepts are clear; presentations add value
+435,9,9,7,4,1,1,7,5,5.375,SYNTHETIC: teaching is clear and concise; need more support for doubts; unclear weekly plan; presentations add value
+945,9,3,8,2,4,9,1,1,4.625,SYNTHETIC: need clearer explanations; workload is reasonable; hard to get help when needed; presentations add value
+930,8,7,5,1,3,7,2,1,4.25,SYNTHETIC: concepts are clear; workload is reasonable; need more support for doubts
+687,5,9,7,9,3,1,9,5,6.0,SYNTHETIC: explanations are easy to follow; tasks felt challenging; need more support for doubts; unclear weekly plan; presentations add value
+852,5,10,5,4,3,10,8,6,6.375,SYNTHETIC: explanations are easy to follow; need more support for doubts
+712,6,5,5,7,8,2,9,7,6.125,SYNTHETIC: assignments are too hard; doubt solving is helpful; course needs better structure
+470,6,10,6,6,7,1,1,2,4.875,SYNTHETIC: teaching is clear and concise; doubt solving is helpful; unclear weekly plan
+43,6,5,4,1,10,7,4,1,4.75,SYNTHETIC: tasks are fair; doubt solving is helpful; presentations are text-heavy
+550,5,3,7,8,2,7,7,8,5.875,SYNTHETIC: need clearer explanations; tasks felt challenging; slow response to queries; presentations add value
+844,8,6,4,1,1,8,10,9,5.875,SYNTHETIC: workload is reasonable; slow response to queries; presentations are text-heavy
+150,6,5,8,5,2,10,1,6,5.375,SYNTHETIC: hard to get help when needed; slides are helpful
+168,6,3,8,2,8,10,7,3,5.875,SYNTHETIC: struggled to follow some topics; assignments are manageable; mentor support is good; presentations add value
+519,8,7,7,6,10,10,4,3,6.875,SYNTHETIC: teaching is clear and concise; got quick support; presentations add value
+531,9,8,7,6,3,8,3,7,6.375,SYNTHETIC: concepts are clear; slow response to queries; presentations add value
+643,9,7,7,7,2,4,3,7,5.75,SYNTHETIC: explanations are easy to follow; assignments are too hard; hard to get help when needed; unclear weekly plan; presentations add value
+428,6,9,4,4,8,6,2,5,5.5,SYNTHETIC: teaching is clear and concise; doubt solving is helpful; presentations are text-heavy
+659,9,4,8,10,6,6,3,8,6.75,SYNTHETIC: need clearer explanations; tasks felt challenging; slides are helpful
+766,10,2,4,3,4,6,9,4,5.25,SYNTHETIC: struggled to follow some topics; assignments are manageable; slow response to queries; slides could be improved
+732,9,2,6,9,4,2,10,10,6.5,SYNTHETIC: concepts feel confusing; tasks felt challenging; hard to get help when needed; course needs better structure
+916,10,4,7,3,10,10,7,8,7.375,SYNTHETIC: struggled to follow some topics; assignments are manageable; got quick support; slides are helpful
+979,9,4,7,10,5,2,4,2,5.375,SYNTHETIC: concepts feel confusing; assignments are too hard; unclear weekly plan; presentations add value
+372,5,7,7,9,3,5,10,4,6.25,SYNTHETIC: teaching is clear and concise; tasks felt challenging; hard to get help when needed; presentations add value
+778,9,4,8,9,8,5,7,4,6.75,SYNTHETIC: struggled to follow some topics; workload feels heavy; mentor support is good; slides are helpful
+579,10,3,7,8,9,1,8,8,6.75,SYNTHETIC: concepts feel confusing; workload feels heavy; doubt solving is helpful; course needs better structure; presentations add value
+320,9,6,7,4,3,9,10,2,6.25,SYNTHETIC: need more support for doubts; presentations add value
+645,5,9,6,6,8,5,10,8,7.125,SYNTHETIC: explanations are easy to follow; mentor support is good
+5,6,7,4,2,3,8,10,7,5.875,SYNTHETIC: concepts are clear; tasks are fair; need more support for doubts; presentations are text-heavy
+294,7,5,4,1,6,2,9,6,5.0,SYNTHETIC: workload is reasonable; unclear weekly plan; slides could be improved
+117,8,2,5,10,5,4,3,2,4.875,SYNTHETIC: need clearer explanations; assignments are too hard; course needs better structure
+555,9,2,8,7,2,1,3,10,5.25,SYNTHETIC: concepts feel confusing; tasks felt challenging; need more support for doubts; course needs better structure; presentations add value
+29,6,9,5,1,6,10,4,5,5.75,SYNTHETIC: teaching is clear and concise; workload is reasonable
+259,8,3,8,9,7,4,10,7,7.0,SYNTHETIC: need clearer explanations; tasks felt challenging; doubt solving is helpful; course needs better structure; presentations add value
+47,8,4,4,9,10,10,2,6,6.625,SYNTHETIC: concepts feel confusing; assignments are too hard; doubt solving is helpful; presentations are text-heavy
+678,8,10,5,2,7,4,1,7,5.5,SYNTHETIC: concepts are clear; workload is reasonable; got quick support; unclear weekly plan
+543,8,2,4,9,3,3,3,4,4.5,SYNTHETIC: need clearer explanations; tasks felt challenging; hard to get help when needed; unclear weekly plan; slides could be improved
+908,5,2,5,3,2,10,4,8,4.875,SYNTHETIC: concepts feel confusing; assignments are manageable; slow response to queries
+586,8,2,4,9,8,8,7,7,6.625,SYNTHETIC: concepts feel confusing; workload feels heavy; got quick support; presentations are text-heavy
+98,9,9,7,2,3,3,8,4,5.625,SYNTHETIC: concepts are clear; tasks are fair; need more support for doubts; unclear weekly plan; slides are helpful
+55,8,7,6,2,5,7,7,9,6.375,SYNTHETIC: explanations are easy to follow; workload is reasonable
+913,5,5,6,5,6,7,6,1,5.125,SYNTHETIC: decent course
+199,9,5,8,3,8,1,1,2,4.625,SYNTHETIC: workload is reasonable; mentor support is good; course needs better structure; slides are helpful
+539,10,2,7,4,3,4,10,1,5.125,SYNTHETIC: need clearer explanations; slow response to queries; unclear weekly plan; presentations add value
+759,7,2,4,2,1,5,9,9,4.875,SYNTHETIC: need clearer explanations; tasks are fair; slow response to queries; slides could be improved
