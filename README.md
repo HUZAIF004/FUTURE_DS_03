@@ -104,4 +104,4 @@ Analyze student feedback end-to-end: clean and prepare data, explore insights, r
 - Install: pip install -r requirements.txt
 - Verify data files in data/
 - Notebook: open notebooks/College_feedback.ipynb and run
-- Dashboard: streamlit run app.py
+- Dashboard: https://college-feedback-analysis.streamlit.app/
